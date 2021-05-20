@@ -5,7 +5,7 @@ Building a shift schedule for employees can be an extremely complex optimization
 
 Employee shift scheduling is currently supporting 2/3/4 shifts per day. Both predictive and reactive scheduling are available.
 
-Email:ran.ai98.com@gmail.com 2021-02-01
+
 
 # shift-schedule example
 
@@ -17,3 +17,5 @@ B班：8：00-16：00（共三人。不限次数。）
 C班：16：00-24：00（共三人。不限次数。）
 每个月按照有几个法定休息日进行休息。例如这个月共有五个周六，四个周日，那就是休息9天。
 ![image](https://user-images.githubusercontent.com/84350533/118559299-026b4b80-b768-11eb-98fe-2bb79e5704f3.png)
+
+Email:ran.ai98.com@gmail.com 2021-02-01
