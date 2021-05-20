@@ -17,6 +17,7 @@ A班：0：00-8：00（仅限一人。且每人在同一个月平均一些，如
 B班：8：00-16：00（共三人。不限次数。）
 C班：16：00-24：00（共三人。不限次数。）
 每个月按照有几个法定休息日进行休息。例如这个月共有五个周六，四个周日，那就是休息9天。
-![image](https://user-images.githubusercontent.com/84350533/118559299-026b4b80-b768-11eb-98fe-2bb79e5704f3.png)
+![image](https://user-images.githubusercontent.com/84350533/119012794-a5a1a800-b996-11eb-8254-cbe54cebc874.png)
+
 
 Email:ran.ai98.com@gmail.com 2021-02-01
