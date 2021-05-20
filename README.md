@@ -8,7 +8,7 @@ Employee shift scheduling is currently supporting 3/4 shifts per day. Both predi
 
 
 
-# Shift-Scheduling example
+# Shift-Scheduling Examples
 
 该如何做规律的三班倒排班?
 
