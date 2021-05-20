@@ -1,5 +1,5 @@
 
-# Shift-Scheduling - Combinatorial Optimization
+# Employee Shift Scheduling 
 Create and revise employee shift schedule
 
 Building a shift schedule for employees can be an extremely complex optimization problem in which managers must balance employee preferences against scheduling requirements. In this project, we use a CSP model to solve the problem which smartly optimize over the competing scheduling and preference needs.
