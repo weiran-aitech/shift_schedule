@@ -10,7 +10,7 @@ Employee shift scheduling is currently supporting 2/3/4 shifts per day. Both pre
 
 # shift-schedule example
 
-该如何做规律的三班倒排班？ 100
+该如何做规律的三班倒排班?
 
 现在共有9人，做轮换排班。
 A班：0：00-8：00（仅限一人。且每人在同一个月平均一些，如果不平均在下个月也可以有补充。）
