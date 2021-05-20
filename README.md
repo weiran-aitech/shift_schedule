@@ -20,4 +20,4 @@ C班：16：00-24：00（共三人。不限次数。）
 ![image](https://user-images.githubusercontent.com/84350533/119012794-a5a1a800-b996-11eb-8254-cbe54cebc874.png)
 
 
-Email:ran.ai98.com@gmail.com 2021-02-01
+Email:weiran.aitech@gmail.com 2021-02-01
