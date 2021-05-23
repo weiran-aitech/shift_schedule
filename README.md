@@ -1,5 +1,5 @@
 
-# Employee Shift Scheduling - 员工轮班计划
+# Employee Shift Scheduling 
 Create and revise employee shift schedule
 
 Building a shift schedule for employees can be an extremely complex optimization problem in which managers must balance employee preferences against scheduling requirements. In this project, we use a CSP model to solve the problem which smartly optimize over the competing scheduling and preference needs.
@@ -9,7 +9,7 @@ Our employee shift scheduling system is currently supporting 2/3 shifts per day.
 
 
 # Shift-Scheduling Examples
-
+员工轮班计划
 该如何做规律的三班倒排班?
 
 现在共有9人，做轮换排班。
