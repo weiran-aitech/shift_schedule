@@ -1,6 +1,6 @@
 
 # Intelligent Shift Scheduling 
-Create and revise employee shift schedule
+智能排班
 
 Building a shift schedule for employees can be an extremely complex optimization problem in which managers must balance employee preferences against scheduling requirements. In this project, a CSP model is create to solve the problem. It smartly optimizes the competing scheduling and preference needs.
 
