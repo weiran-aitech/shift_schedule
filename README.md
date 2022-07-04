@@ -1,5 +1,6 @@
 
-# Intelligent Shift Scheduling (智能排班)
+# Intelligent Shift Scheduling 
+智能排班
 
 Ceating an employee shift schedule can be an extremely complex optimization problem. This Shift Scheduling App are highlighted with following features:
 1.  Models and solves a wide range of shift scheduling problems which are categorized by different number of shifts per day. Currently,  1/2/3/4/5/6/7/8 shifts per day are suppored.
