@@ -2,7 +2,7 @@
 # Intelligent Shift Scheduling 
 智能排班
 
-Ceating an employee shift schedule can be an extremely complex optimization problem. This Shift Scheduling App are highlighted with following features:
+Ceating an employee shift schedule can be an extremely complex optimization problem. This Shift Scheduling App are powered by following features:
 1.  Models and solves a wide range of shift scheduling problems which are categorized by different number of shifts per day. Currently,  1/2/3/4/5/6/7/8 shifts per day are suppored.
 2. A variety of shift constraints are presented for selection that can be applied to meet different requirements.
 3. Incremental and iterative optimization is the core strategy in building a satisfactory shift schedule. 
