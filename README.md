@@ -1,8 +1,7 @@
 
-# Intelligent Shift Scheduling 
-智能排班
+# Intelligent Shift Scheduling (智能排班)
 
-Ceating an employee shift schedule can be an extremely complex optimization problem. The highlights of this Shift Scheduling system are:
+Ceating an employee shift schedule can be an extremely complex optimization problem. This Shift Scheduling App are highlighted with following features:
 1.  Models and solves a wide range of shift scheduling problems which are categorized by different number of shifts per day. Currently,  1/2/3/4/5/6/7/8 shifts per day are suppored.
 2. A variety of shift constraints are presented for selection that can be applied to meet different requirements.
 3. Incremental and iterative optimization is the core strategy in building a satisfactory shift schedule. 
@@ -21,6 +20,6 @@ B班：8：00-16：00（共三人。不限次数。）
 C班：16：00-24：00（共三人。不限次数。）
 每个月按照有几个法定休息日进行休息。例如这个月共有五个周六，四个周日，那就是休息9天。
 ![image](https://user-images.githubusercontent.com/84350533/119012794-a5a1a800-b996-11eb-8254-cbe54cebc874.png)
-在这个轮班计划里，有四个员工一周必须工作四十八小时
+在这个轮班计划里，有四个员工一周必须工作四十八小时.
 
 Email:weiran.aitech@gmail.com 2021-02-01
