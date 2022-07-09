@@ -2,15 +2,15 @@
 # Intelligent Shift Scheduling 
 智能排班
 
-Ceating and revising an employee shift schedule can be an extremely complex optimization problem. This App provids a smart way to solve such problems. It is powered by following features:
+Ceating and revising an employee shift schedule can be an extremely complex optimization problem. This project provids a smart way to solve such problems. It is powered by following features:
 1. Models and solves a wide range of shift scheduling problems which are categorized by different number of shifts per day. Currently,  1/2/3/4/5/6/7/8 shifts/day are suppored.
 2. A variety of basic shift constraints are presented for scheduling selection. They can be combined/grouped to form very complicated contraints to cope with different real world requirements.
-3. Incremental and iterative optimization is the core strategy in building a satisfactory shift schedule. 
-4. Reactive scheduling algorithm with constraint addition and removal plays a major role in dealing with the frequently changing needs (e.g. availability change of employees).
-5. This App is characterized by a high degree of flexibility. It is capable of dealing with simple to complicated scheduling tasks. In a simple schedule task, a small number of staffs and shifts per day specified, creating and repairing schedules can be easily operated by just selection and click. For a complicated task,  a large number of staffs and a bit more shifts per day specified, more complicated mechnisms/tools are available to meet these chanllenges (e.g. decompsition of a problem and merging multiple scheduling results to form the final results).
+3. Iterative optimization is the core strategy in building a satisfactory shift schedule. 
+4. Reactive scheduling algorithm with constraint addition and removal plays a major role in dealing with the frequently changing needs (e.g. availability change of employees, company requirement change). A minimal changed solution aginst the existing schedule is sorted in reponding to the modification request.
+5. This project is characterized by a high degree of flexibility. It is capable of fullfilling simple to complicated scheduling tasks. In a simple one, a small number of staffs and shifts per day specified, creating and repairing schedules can be easily done by just selection and click. For a complicated task,  a large number of staffs and a bit more shifts per day specified, more complicated mechnisms/tools are available to meet these chanllenges (e.g. decompsition of a problem and merging multiple scheduling results to form the final results).
 6. For each employee in a schedule cycle, the number and type of shifts, the number of day-off and the total number of working hours are comprehasively considered and handled. The employees' needs and companies' requirements can be well balanced with constraint adjustment and optimization algorithms.
 7. Schedule tables are presented as visible results. Customizable integrations tools are available to communicate with external system (e.g. import employee data into the system, output schedule results to excel file etc.)
-8. The results from this App can provide useful references for mangement to optimize the employment struture, to minimize the total number of staffs and the administrative costs.
+8. The results can maximally satify the personal needs and provide useful references for mangement to optimize the employment struture, to minimize the total number of staffs and the administrative costs.
 
 # Shift-Scheduling Examples
 员工轮班计划: 该如何做规律的三班倒排班?
