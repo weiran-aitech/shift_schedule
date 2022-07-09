@@ -2,8 +2,8 @@
 # Intelligent Shift Scheduling 
 智能排班
 
-Ceating and revising an employee shift schedule can be an extremely complex optimization problem. This application is designed and developed to solve such problems with AI optimization tools. It is powered by following features:
-1. Models and solves a wide range of shift scheduling problems which are categorized by different number of shifts per day. Currently,  1/2/3/4/5/6/7/8 shifts/day are suppored.
+An optimal shift schedule for employees can be extremely hard to create and alter. This application was designed and developed to use AI optimization technologies to address such issues. It is powered by the following features:
+1. Models and resolves a wide range of shift scheduling problems which are grouped based on the number of shifts each day. At the moment,  1/2/3/4/5/6/7/8 shifts/day are supported.
 2. Iterative optimization is the core strategy in building a satisfactory shift schedule. 
 3. A variety of basic shift constraints are extracted and presented for scheduling selection. They can be combined/grouped to form very complicated contraints to cope with different real world requirements. 
 4. Reactive scheduling algorithm with constraint addition and removal plays a major role in dealing with the frequently changing needs (e.g. employeess'availability change, company requirement change). A minimal changed solution aginst the existing schedule is sorted in reponding to the modification request.
