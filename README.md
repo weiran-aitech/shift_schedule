@@ -2,10 +2,10 @@
 # Intelligent Shift Scheduling 
 智能排班
 
-A satisfactory shift schedule for employees can be extremely hard to create and alter. This application was designed and developed to use AI optimization technologies to address such issues. It is powered by the following features:
-1. Models and resolves a wide range of shift scheduling problems which are grouped based on the number of shifts each day. At the moment,  1/2/3/4/5/6/7/8 shifts/day are supported.
-2. Iterative optimization is the core strategy in building a satisfactory shift schedule. 
-3. A variety of basic shift constraints are extracted and presented for scheduling selection. They can be combined/grouped to form very complicated contraints to cope with different real world requirements. 
+Satisfactory employees shift schedules can be extremely hard to create and alter. This software was designed and developed to use AI optimization technologies to address such issues. It is powered by the following features:
+1. Models and solves a wide range of shift scheduling problems which are grouped based on the number of shifts each day. At the moment,  1/2/3/4/5/6/7/8 shifts/day are supported.
+2. Employee shift schedules can be generated, repaired, and iteratively optimized utilizing reliable and efficient algorithms.
+3. A collection of fundamental shift scheduling constraints has been derived and presented for scheduling decision-making. They can be combined to form very complex constraints to meet various real-world demands. 
 4. Reactive scheduling algorithm with constraint addition and removal plays a major role in dealing with the frequently changing needs (e.g. employeess'availability change, company requirement change). A minimal changed solution aginst the existing schedule is sorted in reponding to the modification request.
 5. This application is characterized by a high degree of flexibility. It is capable of fullfilling simple to complicated scheduling tasks. In a simple one, a small number of staffs and shifts per day specified, creating and repairing schedules can be as easy as selection and click. For a complicated task,  a large number of staffs and a bit more shifts per day specified, more complicated mechnisms/tools are available to meet these chanllenges (e.g. decompsition of a problem and merging multiple scheduling results to form the final results).
 6. For each employee in a schedule cycle, the number and type of shifts, the number of day-off and the total number of working hours he takes are comprehasively considered and handled. The employees' needs and companies' requirements are well balanced with constraint adjustment and optimization algorithms.
