@@ -2,7 +2,7 @@
 # Intelligent Shift Scheduling 
 智能排班
 
-Satisfactory employees shift schedules can be extremely hard to create and alter. This software was designed and developed to use AI optimization technologies to address such issues. It is powered by the following features:
+Satisfactory employee shift schedules can be extremely hard to create and alter. This software was designed and developed to use AI optimization technologies to address such issues. It is powered by the following features:
 1. Models and solves a wide range of shift scheduling problems which are grouped based on the number of shifts each day. At the moment,  1/2/3/4/5/6/7/8 shifts/day are supported.
 2. Employee shift schedules can be generated, repaired, and iteratively optimized utilizing reliable and efficient algorithms.
 3. A collection of fundamental shift scheduling constraints has been derived and presented for scheduling decision-making. They can be combined to form very complex constraints to meet various real-world demands. 
