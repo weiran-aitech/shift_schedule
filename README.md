@@ -2,9 +2,9 @@
 # Intelligent Shift Scheduling 
 智能排班
 
-Satisfactory employee shift schedules can be extremely hard to create and alter. This software is designed and developed to use AI optimization technologies to address such issues. It is powered by the following features:
-1. A wide range of shift scheduling problems categorized by the number of shifts each day can be Modelled and solved. At the moment,  1/2/3/4/5/6/7/8 shifts/day are supported.
-2. Employee shift schedules can be generated, repaired, and iteratively optimized utilizing reliable and efficient algorithms.
+Satisfactory employee shift schedules can be extremely hard to create and alter. This app is designed and developed to use AI optimization technologies to address such issues. It is powered by the following features:
+1. The number of shifts in each day is used to categorize and model a wide range of employee shift scheduling problems. Currently, 1/2/3/4/5/6/7/8 shifts per day are supported.
+2. Employee shift schedules can be created, revised, and iteratively optimized with the equipped reliable and effective scheduling engines.
 3. A collection of fundamental shift scheduling constraints extracted and derived from common and frequently-used schedule requests are presented for scheduling decision-making. They can be combined to form very complex constraints to meet various real-world demands. 
 4. Reactive scheduling with constraint addition and removal plays a major role in dealing with the frequently changing needs (e.g. employeess'availability change, company requirement change). A minimal changed solution aginst the existing schedule is sorted in reponding to the new request.
 5. This software is also characterized by a high degree of flexibility. It is capable of fullfilling simple to complicated scheduling tasks. In a simple one, a small number of staffs and shifts per day specified, creating and repairing schedules can be as easy as selection and click. For a complicated task,  a large number of staffs and a bit more shifts per day specified, more complicated mechnisms/tools are available to meet these chanllenges (e.g. decompsition of a problem and merging multiple scheduling results to form the final results).
