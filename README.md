@@ -14,11 +14,11 @@ Reasonable shift schedules can be extremely hard to create and adjust. This app 
 
 
 # Shift-Scheduling Examples
-1. Employee rotation schedule
-- Number of employees 9, Number of days 7, number of shifts 3 per day.
-- A-shift：0：00-8：00（one person）
-- B-sfhit：8：00-16：00（three persons）
-- C-shift：16：00-24：00（three persons）
+1. 3 shifts per day
+   - Number of employees 9, Number of days 7.
+   - A-shift：0：00-8：00（one employee required）
+   - B-sfhit：8：00-16：00（three employees required）
+   - C-shift：16：00-24：00（three employees required）
 ![image](https://user-images.githubusercontent.com/84350533/119012794-a5a1a800-b996-11eb-8254-cbe54cebc874.png)
 In this shift schedule，4 employees must work for 48 hours a week.
 
