@@ -8,9 +8,10 @@ Satisfactory shift schedules can be extremely hard to create and adjust. This ap
 3. It provides a collection of fundamental shift scheduling constraints for scheduling decision-making, which are extracted and derived from common and frequently used schedule requests. To satisfy numerous requirements in the real world, those constraints might be merged to form quite complicated constraints.
 4. Reactive scheduling with constraint addition and removal is a key component of the app's approach to handling often changing requirements. In response to the new request, a minimal number of adjusted shifts are sorted in comparison to the current schedule.
 5. Another characteristic of this app is its remarkable flexibility. It can be used to complete simple to complex scheduling tasks. The process of creating and revising schedules can be as easy as choosing an option and pressing a button. More sophisticated strategies and techniques are available to deal with complex challenges (e.g., decompsition of a problem and merging multiple scheduling results to form the final results).
-6. For each employee in a schedule cycle, the number and type of shifts, the number of day-off and the total number of working hours he takes are comprehasively considered and handled. The employees' needs and companies' requirements are well balanced with constraint adjustment and optimization algorithms.
-7. Schedule tables are presented as visible results. Customizable integrations tools are available to communicate with external system (e.g. import employee data into the system, output schedule results to excel file etc.)
-8. The results of this application can maximally satify the personal needs and provide useful references for mangement to optimize the employment struture, to minimize the total number of staffs and the administrative costs.
+6. Each employee's total working hours, total number of shifts, total number of days off, and total number of shift types are comprehensively considered and handled in a schedule cycle. To achieve a better balance between the needs of the employees and those of the companies, constraint adjustment and optimization algorithms are applied
+7. Observable results are shown in tables for the scheduled outcomes. To communicate with external systems, integration tools are available (e.g., to import employee data into the system, output schedule results to an excel file, etc.).
+8. By using this app, managers' daily workloads will be eased. Its results will provide management with practical advice for optimizing employee structure, reducing the size of the employee base overall, and lowering administrative costs.
+
 
 # Shift-Scheduling Examples
 员工轮班计划: 该如何做规律的三班倒排班?
