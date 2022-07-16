@@ -2,7 +2,7 @@
 # Intelligent Shift Scheduling 
 智能排班
 
-Satisfactory shift schedules can be extremely hard to create and adjust. This app is designed and developed to use AI optimization technologies to address such issues. It is powered by the following features:
+Reasonable shift schedules can be extremely hard to create and adjust. This app is designed and developed to use AI optimization technologies to address such issues. It is powered by the following features:
 1. The number of shifts in each day is used to categorize and model a wide range of employee shift scheduling problems. Currently, 1/2/3/4/5/6/7/8 shifts per day are supported.
 2. It is furnished with innovatively developed scheduling engines that make it simpler for the user to create, update, and iteratively optimize employee shift schedules.
 3. It provides a collection of fundamental shift scheduling constraints for scheduling decision-making, which are extracted and derived from common and frequently used schedule requests. To satisfy numerous requirements in the real world, those constraints might be merged to form quite complicated constraints.
