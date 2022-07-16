@@ -14,14 +14,14 @@ Reasonable shift schedules can be extremely hard to create and adjust. This app 
 
 
 # Shift-Scheduling Examples
-员工轮班计划: 该如何做规律的三班倒排班?
+Employee rotation schedule
 
-现在共有9人，做轮换排班。
-A班：0：00-8：00（仅限一人。且每人在同一个月平均一些，如果不平均在下个月也可以有补充。）
-B班：8：00-16：00（共三人。不限次数。）
-C班：16：00-24：00（共三人。不限次数。）
-每个月按照有几个法定休息日进行休息。例如这个月共有五个周六，四个周日，那就是休息9天。
+9 employees in shift schedule
+A-shift：0：00-8：00（one person）
+B-sfhit：8：00-16：00（three persons）
+C-shift：16：00-24：00（three persons）
 ![image](https://user-images.githubusercontent.com/84350533/119012794-a5a1a800-b996-11eb-8254-cbe54cebc874.png)
-在这个轮班计划里，有四个员工一周必须工作四十八小时.
+In this shift schedule，4 employees must work for 48 hours a week.
+
 
 Email:weiran.aitech@gmail.com 2021-02-01
