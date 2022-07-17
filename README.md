@@ -13,7 +13,7 @@ Reasonable shift schedules can be extremely hard to create and adjust. This app 
 - By using this app, managers' daily workloads will be eased and employees will be greatly motivated to increase their productivity and improve their quality of work. The schedule results will provide management with practical advice for optimizing employee structure and lowering administrative costs.
 
 
-# Shift-Scheduling Examples
+# Shift Schedule Examples
 1. Number of shifts per day: 3
    - Number of employees: 9, Number of days: 7.
    - A-shift：0：00-8：00（1 employee required）
