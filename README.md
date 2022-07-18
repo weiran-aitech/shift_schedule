@@ -14,8 +14,8 @@ Reasonable shift schedules can be extremely hard to create and adjust. This app 
 
 
 # Shift Schedule Examples
-1. Number of shifts per day: 3
-   - Number of employees: 9, Number of days: 7.
+1. Creating a schedule for nine employees over a seven-day period, subject to the following conditions:
+   - Each day is divided into three 8-hour shifts. Every day, no employee works more than one shift.
    - A-shift：0：00-8：00（1 employee required）
    - B-sfhit：8：00-16：00（3 employees required）
    - C-shift：16：00-24：00（3 employees required）
