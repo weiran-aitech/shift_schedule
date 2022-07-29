@@ -41,7 +41,7 @@ In this shift schedule，4 employees must work for 48 hours a week. others work 
    - Slots taken by any employee are spaced by at least 8 hours.
 
 Result schedule:
-![image](https://user-images.githubusercontent.com/84350533/181787768-231b81f9-c95e-462b-9648-ddb75e6f4985.png)
+![image](https://user-images.githubusercontent.com/84350533/181852021-45e3dec2-4bf8-42b8-ab56-0e08492d99c3.png)
 In this shift schedule，each employee works for 40 hours a week.
 
 Email:weiran.aitech@gmail.com 2021-02-01
