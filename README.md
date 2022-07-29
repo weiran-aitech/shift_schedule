@@ -10,7 +10,7 @@ A satisfactory shift schedule can be extremely hard to create and adjust. This a
 - Another characteristic of this app is its remarkable flexibility. It can be used to fulfill simple to complex scheduling tasks. The process of creating and revising schedules can be as easy as choosing an option and pressing a button. On the other hand, sophisticated strategies and techniques are available to deal with difficult issues (e.g., decomposition of a problem and merging multiple scheduling results to form the final results).
 - Each employee's total working hours, total number of shifts, total number of days off, and total number of shift types are comprehensively considered and handled in a schedule cycle. To achieve a better balance between the needs of the employees and those of the companies, constraint adjustment and optimization algorithms are applied
 - Observable results are shown in tables for the scheduled outcomes. To communicate with external systems, integration tools are available (e.g., import employee data into the system, output schedule results to an excel file, etc.).
-- Using this app, managers' daily workloads will be eased and employees will be greatly motivated to increase their productivity and improve their quality of work. The schedule results will provide management with practical advice for optimizing employee structure and lowering administrative costs.
+- Using this app, managers' daily workloads will be eased and employees will be greatly motivated to increase their productivity and improve their quality of work. The schedule results will also provide management practical advice to optimize employee structure and lowering administrative costs.
 
 
 ## Shift Schedule Examples
