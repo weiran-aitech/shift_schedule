@@ -28,6 +28,6 @@ Result schedule:
 In this shift schedule，4 employees must work for 48 hours a week.
 
 2.
-
+![image](https://user-images.githubusercontent.com/84350533/181787768-231b81f9-c95e-462b-9648-ddb75e6f4985.png)
 
 Email:weiran.aitech@gmail.com 2021-02-01
