@@ -28,14 +28,15 @@ Result schedule:
 In this shift schedule，4 employees must work for 48 hours a week. others work for 40 hours a week.
 
 2. Creating a schedule for 35 employees over a seven-day period, subject to the following constraints:
-   - Each day is divided into six 4-hour shifts. Every day, no employee works more than 2 shifts.
-   - A-shift：00:00-04:00（6 employee required）
-   - B-sfhit：04:00-08:00（9 employees required）
-   - C-shift：08:00-12:00（10 employees required）
-   - D-shift：12:00-16:00（10 employees required）
-   - E-shift：16:00-20:00（9 employees required）
-   - F-shift：20:00-24:00（6 employees required)
-   - Each employee works 5 days in the period and each day takes either off or one time-slot (out of 5 time slots).
+   - Each day is divided into six 4-hour shifts. 
+   - A-shift：02:00-06:00（6 employee required）
+   - B-sfhit：06:00-10:00（9 employees required）
+   - C-shift：10:00-14:00（10 employees required）
+   - D-shift：14:00-18:00（10 employees required）
+   - E-shift：18:00-22:00（9 employees required）
+   - F-shift：22:00-02:00（6 employees required)
+   - Each employee works 5 days in the period. 
+   - Every day, each employee works at most one time-slot (out of 5 time slots, each time slot contains 2 shifts).
   ![image](https://user-images.githubusercontent.com/84350533/181853136-6f486b97-3602-4521-8d04-3caba0a89c35.png)
    - Number of shifts are evenly assigned to employees
    - Slots taken by each employee are spaced by at least 24 hours.
