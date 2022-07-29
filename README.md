@@ -14,8 +14,11 @@ Reasonable shift schedules can be extremely hard to create and adjust. This app 
 
 
 ## Shift Schedule Examples
-1. Creating a schedule for nine employees over a seven-day period, subject to the following constraints:
+1. Creating a schedule for 9 employees over a seven-day period, subject to the following constraints:
    - Each day is divided into three 8-hour shifts. Every day, no employee works more than one shift.
+   - Number of shifts are evenly assigned to employees.
+   - Shifts assined to any employee are spaced by at least 16 hours.
+   - Each employee has at least one day off.
    - A-shift：00:00-08:00（1 employee required）
    - B-sfhit：08:00-16:00（3 employees required）
    - C-shift：16:00-24:00（3 employees required）
