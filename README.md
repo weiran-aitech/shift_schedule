@@ -35,10 +35,10 @@ In this shift schedule，4 employees must work for 48 hours a week. others work 
    - D-shift：12:00-16:00（10 employees required）
    - E-shift：16:00-20:00（9 employees required）
    - F-shift：20:00-24:00（6 employees required)
-   - Each employee works with 2 consecutive shifts in 1 of 5 time slots each day.
-  ![image](https://user-images.githubusercontent.com/84350533/181795835-05a6f2b3-1a92-41b6-a915-b1adc66f468d.png)
+   - Each employee works 5 days in the period and each day takes either off or one time-slot (out of 5 time slots).
+  ![image](https://user-images.githubusercontent.com/84350533/181853136-6f486b97-3602-4521-8d04-3caba0a89c35.png)
    - Number of shifts are evenly assigned to employees
-   - Slots taken by any employee are spaced by at least 8 hours.
+   - Slots taken by each employee are spaced by at least 24 hours.
 
 Result schedule:
 ![image](https://user-images.githubusercontent.com/84350533/181852021-45e3dec2-4bf8-42b8-ab56-0e08492d99c3.png)
