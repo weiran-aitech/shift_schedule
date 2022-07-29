@@ -19,9 +19,9 @@ A satisfactory shift schedule can be extremely hard to create and adjust. This a
    - Number of shifts are evenly assigned to employees.
    - Shifts assined to any employee are spaced by at least 16 hours.
    - Each employee has at least one day off in the schedule period.
-   - A-shift：00:00-08:00（1 employee required）
-   - B-sfhit：08:00-16:00（3 employees required）
-   - C-shift：16:00-24:00（3 employees required）
+     - A-shift：00:00-08:00（1 employee required）
+     - B-sfhit：08:00-16:00（3 employees required）
+     - C-shift：16:00-24:00（3 employees required）
 
 Result schedule:
 ![image](https://user-images.githubusercontent.com/84350533/119012794-a5a1a800-b996-11eb-8254-cbe54cebc874.png)
