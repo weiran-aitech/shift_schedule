@@ -38,6 +38,7 @@ In this shift schedule，4 employees must work for 48 hours a week. others work 
    - Each employee works with 2 consecutive shifts in 1 of 5 time slots each day.
   ![image](https://user-images.githubusercontent.com/84350533/181795835-05a6f2b3-1a92-41b6-a915-b1adc66f468d.png)
    - Number of shifts are evenly assigned to employees
+   - Slots taken by any employee are spaced by at least 8 hours.
 
 Result schedule:
 ![image](https://user-images.githubusercontent.com/84350533/181787768-231b81f9-c95e-462b-9648-ddb75e6f4985.png)
