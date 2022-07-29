@@ -31,7 +31,7 @@ In this shift schedule，4 employees must work for 48 hours a week. others work 
    - Each day is divided into six 4-hour shifts. Every day, no employee works more than 2 shifts.
    - Number of shifts are evenly assigned to employees
    - Shifts assined to any employee are spaced by at least 8 hours.
-   - Each employee has two days off in the schedule period.
+   - Each employee works 5 days in the schedule period.
 
 Result schedule:
 ![image](https://user-images.githubusercontent.com/84350533/181787768-231b81f9-c95e-462b-9648-ddb75e6f4985.png)
