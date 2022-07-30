@@ -24,9 +24,9 @@ A satisfactory shift schedule can be extremely hard to create and adjust. This a
    - Shifts assined to any employee are spaced by at least 16 hours.
    - Each employee has at least one day off in the schedule period.
 
-App Result:
-![image](https://user-images.githubusercontent.com/84350533/119012794-a5a1a800-b996-11eb-8254-cbe54cebc874.png)
-In this shift schedule，4 employees must work for 48 hours a week. others work for 40 hours a week.
+  App Result:
+  ![image](https://user-images.githubusercontent.com/84350533/119012794-a5a1a800-b996-11eb-8254-cbe54cebc874.png)
+  In this shift schedule，4 employees must work for 48 hours a week. others work for 40 hours a week.
 
 2. Creating a schedule for 35 employees over a seven-day period, subject to the following constraints:
    - Each day is divided into six 4-hour shifts. 
