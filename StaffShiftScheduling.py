@@ -1,8 +1,8 @@
 # Copyright (C)  2022 WeiRan Hi-Tech
 
-from Staff_Shift_Scheduling.util.preferences import editPreferences
+from Staff_Shift_Scheduling.util.preferences import *
 from Staff_Shift_Scheduling.scheduleEngine.scheduleCreate import *
-from Staff_Shift_Scheduling.scheduleEngine.scheduleMerge import mergeScheduels
+from Staff_Shift_Scheduling.scheduleEngine.scheduleMerge import *
 from Staff_Shift_Scheduling.scheduleEngine.scheduleRepair import *
 from Staff_Shift_Scheduling.manager.staffUnitMgr import *
 from Staff_Shift_Scheduling.util.utility import *
