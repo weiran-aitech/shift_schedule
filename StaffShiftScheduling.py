@@ -1,11 +1,11 @@
 # Copyright (C)  2022 WeiRan Hi-Tech
 
-from Staff_Shift_Scheduling.util.preferences import *
-from Staff_Shift_Scheduling.scheduleEngine.scheduleCreate import *
-from Staff_Shift_Scheduling.scheduleEngine.scheduleMerge import *
-from Staff_Shift_Scheduling.scheduleEngine.scheduleRepair import *
-from Staff_Shift_Scheduling.manager.staffUnitMgr import *
-from Staff_Shift_Scheduling.util.utility import *
+from util.preferences import *
+from scheduleEngine.scheduleCreate import *
+from scheduleEngine.scheduleMerge import *
+from scheduleEngine.scheduleRepair import *
+from manager.staffUnitMgr import *
+from util.utility import *
 
 
 # @jit(nopython=True)
