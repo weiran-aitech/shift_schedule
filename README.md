@@ -24,7 +24,7 @@ A satisfactory shift schedule can be extremely hard to create and adjust. This a
    - Shifts assined to any employee are spaced by at least 16 hours.
    - Each employee has at least one day off in the schedule period.
 
-Result schedule:
+App Result:
 ![image](https://user-images.githubusercontent.com/84350533/119012794-a5a1a800-b996-11eb-8254-cbe54cebc874.png)
 In this shift schedule，4 employees must work for 48 hours a week. others work for 40 hours a week.
 
@@ -39,11 +39,12 @@ In this shift schedule，4 employees must work for 48 hours a week. others work 
    - Each employee works 5 days in the period. 
    - Each employee works at most one time-slot (out of 5 time slots) every day.
   ![image](https://user-images.githubusercontent.com/84350533/181853136-6f486b97-3602-4521-8d04-3caba0a89c35.png)
+  
   Each time slot contains 2 consecutive shifts.
    - Number of shifts are evenly assigned to employees
    - Slots taken by each employee are spaced by at least 24 hours.
 
-Result schedule:
+App Result:
 ![image](https://user-images.githubusercontent.com/84350533/181852021-45e3dec2-4bf8-42b8-ab56-0e08492d99c3.png)
 In this shift schedule，each employee works for 40 hours a week.
 
