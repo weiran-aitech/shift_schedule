@@ -30,6 +30,8 @@ In the 7-day period，4 employees work for 48 hours and 5 employees work for 40 
 2. Creating a schedule for 10 employees over a 7-day period, subject to the constraints as listed in example 1.
 
 App Result:
+![image](https://user-images.githubusercontent.com/84350533/183247091-44349e8b-6a47-492b-bb71-90b6bf94c437.png)
+In the 7-day period，9 employees work for 40 hours and 1 employee works for 32 hours. Shifts assined to each employee are spaced by at least 24 hours. For each employee, different shift types are assigned on two adjacent days.
 
 3. Creating a schedule for 35 employees over a 7-day period, subject to the following constraints:
    - Every day is divided into six 4-hour time slots. Each time slot requires different number of employees. 
