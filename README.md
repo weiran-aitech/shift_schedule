@@ -14,7 +14,7 @@ A satisfactory shift schedule can be extremely hard to create and adjust. This a
 
 
 ## Shift Schedule Examples
-1. Creating a schedule for 9 employees over a 7-day period, subject to the following constraints:
+### 1. Creating a schedule for 9 employees over a 7-day period, subject to the following constraints:
    - Each day is divided into three 8-hour shifts. Each shift requires different number of employees.
      - A-shift：00:00-08:00（1 employee required）
      - B-sfhit：08:00-16:00（3 employees required）
@@ -27,13 +27,13 @@ App Result:
 ![image](https://user-images.githubusercontent.com/84350533/119012794-a5a1a800-b996-11eb-8254-cbe54cebc874.png)
 In the 7-day period，4 employees work for 48 hours and 5 employees work for 40 hours. Shifts assined to each employee are spaced by at least 16 hours.
 
-2. Creating a schedule for 10 employees over a 7-day period, subject to the constraints as listed in example 1.
+### 2. Creating a schedule for 10 employees over a 7-day period, subject to the constraints as listed in example 1.
 
 App Result:
 ![image](https://user-images.githubusercontent.com/84350533/183247091-44349e8b-6a47-492b-bb71-90b6bf94c437.png)
 In the 7-day period，9 employees work for 40 hours and 1 employee works for 32 hours. Shifts assined to each employee are spaced by at least 24 hours. For each employee, different shift types are assigned on two adjacent days.
 
-3. Creating a schedule for 35 employees over a 7-day period, subject to the following constraints:
+### 3. Creating a schedule for 35 employees over a 7-day period, subject to the following constraints:
    - Every day is divided into six 4-hour time slots. Each time slot requires different number of employees. 
      - A-slot：02:00-06:00（6 employee required）
      - B-slot：06:00-10:00（9 employees required）
