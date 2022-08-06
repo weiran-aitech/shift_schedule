@@ -28,7 +28,7 @@ App Result:
 ![image](https://user-images.githubusercontent.com/84350533/119012794-a5a1a800-b996-11eb-8254-cbe54cebc874.png)
 In this shift schedule，4 employees must work for 48 hours a week. others work for 40 hours a week.
 
-2. Creating a schedule for 10 employees over a 7-day period, subject to the constraints as same as listed in example 1:
+2. Creating a schedule for 10 employees over a 7-day period, subject to the constraints as listed in example 1.
 
 App Result:
 
