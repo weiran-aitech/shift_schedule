@@ -21,12 +21,11 @@ A satisfactory shift schedule can be extremely hard to create and adjust. This a
      - C-shift：16:00-24:00（3 employees required）
    - Every day, no employee works more than one shift.
    - Number of shifts are evenly assigned to employees.
-   - Shifts assined to each employee are spaced by at least 16 hours.
    - Each employee has at least one day off in the 7-day period.
 
 App Result:
 ![image](https://user-images.githubusercontent.com/84350533/119012794-a5a1a800-b996-11eb-8254-cbe54cebc874.png)
-In this shift schedule，4 employees must work for 48 hours a week. others work for 40 hours a week.
+In the 7-day period，4 employees work for 48 hours and 5 employees work for 40 hours. Shifts assined to each employee are spaced by at least 16 hours.
 
 2. Creating a schedule for 10 employees over a 7-day period, subject to the constraints as listed in example 1.
 
@@ -43,13 +42,12 @@ App Result:
    - Every day, 5 shifts are arranged as shown in the table below:
   ![image](https://user-images.githubusercontent.com/84350533/183245697-5dc5c5ad-f774-49d1-93ca-512be6bbd809.png)
    - Every day, no employee works more than one shift.
-   - Each employee takes two days off in the 7-day period. 
+   - Each employee has two days off in the 7-day period. 
    - Number of shifts are evenly assigned to employees
-   - Shifts assigned to each employee are spaced by at least 24 hours.
 
 App Result:
 ![image](https://user-images.githubusercontent.com/84350533/181852021-45e3dec2-4bf8-42b8-ab56-0e08492d99c3.png)
-In this shift schedule，each employee works for 40 hours a week.
+In this shift schedule，each employee works for 40 hours a week. Shifts assigned to each employee are spaced by at least 24 hours.
 
 Email:weiran.aitech@gmail.com
 
