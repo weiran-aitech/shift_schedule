@@ -1,6 +1,5 @@
 
 # Intelligent Shift Scheduling  
-#### 智能排班
 
 ## Shift Schedule features
 A satisfactory shift schedule can be extremely hard to create and adjust. This app is designed and developed to use AI optimization technologies to address such issues. It is powered by the following features:
