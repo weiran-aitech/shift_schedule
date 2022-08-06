@@ -14,7 +14,7 @@ A satisfactory shift schedule can be extremely hard to create and adjust. This a
 
 
 ## Shift Schedule Examples
-1. Creating a schedule for 9 employees over a seven-day period, subject to the following constraints:
+1. Creating a schedule for 9 employees over a 7-day period, subject to the following constraints:
    - Each day is divided into three 8-hour shifts.
      - A-shift：00:00-08:00（1 employee required）
      - B-sfhit：08:00-16:00（3 employees required）
