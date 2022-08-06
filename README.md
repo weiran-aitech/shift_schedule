@@ -42,6 +42,7 @@ In the 7-day period，9 employees work for 40 hours and 1 employee works for 32 
      - E-slot：18:00-22:00（9 employees required）
      - F-slot：22:00-02:00（6 employees required)
    - Every day, 5 shifts are arranged as shown in the table below:
+   
   ![image](https://user-images.githubusercontent.com/84350533/183245697-5dc5c5ad-f774-49d1-93ca-512be6bbd809.png)
    - Every day, no employee works more than one shift.
    - Each employee has two days off in the 7-day period. 
