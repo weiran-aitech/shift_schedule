@@ -6,7 +6,7 @@ A satisfactory shift schedule can be extremely hard to create and revise. This a
 - A wide variety of employee shift scheduling issues are categorized and modeled by using number of shifts in each day. Currently, 1/2/3/4/5/6/7/8 shifts per day are supported.
 - It is furnished with innovatively developed scheduling engines that make it simpler for the user to create, update, and iteratively optimize employee shift schedules.
 - It provides a collection of fundamental shift scheduling constraints for scheduling decision-making, which are extracted and derived from common and frequently used schedule requests. To satisfy numerous requirements in the real world, those constraints might be merged to form quite complicated constraints.
-- Reactive scheduling with constraint addition and removal is a key component of the app's approach to handling often changing requirements. In response to the new request, a minimal number of adjusted shifts are sorted in comparison to the current schedule.
+- The app's approach for handling often changing requirements relies on reactive scheduling with constraint addition and removal. A minimal amount of altered shifts are sorted in contrast to the existing schedule in response to the new request.
 - Another characteristic of this app is its remarkable flexibility. It can be used to fulfill simple to complex scheduling tasks. The process of creating and revising schedules can be as easy as choosing an option and pressing a button. On the other hand, sophisticated strategies and techniques are also available to deal with difficult issues (e.g., decomposition of a problem and merging multiple scheduling results to form the final results).
 - Each employee's total working hours, total number of shifts, total number of days off, and total number of shift types are comprehensively considered and handled in a schedule cycle. To achieve a better balance between the needs of the employees and the companies, constraint adjustment and optimization algorithms are applied
 - Tables for the scheduled outcomes show observable results. Integration tools are provided to communicate with external systems (e.g., import employee data into the system, output schedule results to an excel file, etc.).
@@ -50,6 +50,7 @@ In the 7-day period, 9 employees work for 40 hours, 1 employee works for 32 hour
 
 App Result:
 ![image](https://user-images.githubusercontent.com/84350533/181852021-45e3dec2-4bf8-42b8-ab56-0e08492d99c3.png)
+![image](https://user-images.githubusercontent.com/84350533/183619018-5f70f491-f8a3-4e25-ba14-7125342d3959.png)
 In this shift schedule，each employee works for 40 hours a week. Shifts assigned to each employee are spaced by at least 24 hours.
 
 Email:weiran.aitech@gmail.com
