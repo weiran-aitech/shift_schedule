@@ -2,14 +2,14 @@
 # Intelligent Shift Scheduling  
 #### 智能排班 App
 ## Features:
-A satisfactory shift schedule can be extremely hard to create and adjust. This app is designed and developed to use AI optimization technologies to address such issues. It is powered by the following features:
+A satisfactory shift schedule can be extremely hard to create and revise. This app is designed and developed to use AI optimization technologies to address such issues. It is powered by the following features:
 - The number of shifts in each day is used to categorize and model a wide range of employee shift scheduling problems. Currently, 1/2/3/4/5/6/7/8 shifts per day are supported.
 - It is furnished with innovatively developed scheduling engines that make it simpler for the user to create, update, and iteratively optimize employee shift schedules.
 - It provides a collection of fundamental shift scheduling constraints for scheduling decision-making, which are extracted and derived from common and frequently used schedule requests. To satisfy numerous requirements in the real world, those constraints might be merged to form quite complicated constraints.
 - Reactive scheduling with constraint addition and removal is a key component of the app's approach to handling often changing requirements. In response to the new request, a minimal number of adjusted shifts are sorted in comparison to the current schedule.
-- Another characteristic of this app is its remarkable flexibility. It can be used to fulfill simple to complex scheduling tasks. The process of creating and revising schedules can be as easy as choosing an option and pressing a button. On the other hand, sophisticated strategies and techniques are available to deal with difficult issues (e.g., decomposition of a problem and merging multiple scheduling results to form the final results).
-- Each employee's total working hours, total number of shifts, total number of days off, and total number of shift types are comprehensively considered and handled in a schedule cycle. To achieve a better balance between the needs of the employees and those of the companies, constraint adjustment and optimization algorithms are applied
-- Observable results are shown in tables for the scheduled outcomes. To communicate with external systems, integration tools are available (e.g., import employee data into the system, output schedule results to an excel file, etc.).
+- Another characteristic of this app is its remarkable flexibility. It can be used to fulfill simple to complex scheduling tasks. The process of creating and revising schedules can be as easy as choosing an option and pressing a button. On the other hand, sophisticated strategies and techniques are also available to deal with difficult issues (e.g., decomposition of a problem and merging multiple scheduling results to form the final results).
+- Each employee's total working hours, total number of shifts, total number of days off, and total number of shift types are comprehensively considered and handled in a schedule cycle. To achieve a better balance between the needs of the employees and the companies, constraint adjustment and optimization algorithms are applied
+- Tables for the scheduled outcomes show observable results. Integration tools are provided to communicate with external systems (e.g., import employee data into the system, output schedule results to an excel file, etc.).
 - Using this app, managers' daily workloads will be eased and employees will be greatly motivated to increase their productivity and improve their quality of work. The schedule results will also provide management practical advice to optimize employee structure and lowering administrative costs.
 
 
