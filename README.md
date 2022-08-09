@@ -50,7 +50,6 @@ In the 7-day period, 9 employees work for 40 hours, 1 employee works for 32 hour
 
 App Result:
 ![image](https://user-images.githubusercontent.com/84350533/181852021-45e3dec2-4bf8-42b8-ab56-0e08492d99c3.png)
-![image](https://user-images.githubusercontent.com/84350533/183619018-5f70f491-f8a3-4e25-ba14-7125342d3959.png)
 In this shift schedule，each employee works for 40 hours a week. Shifts assigned to each employee are spaced by at least 24 hours.
 
 Email:weiran.aitech@gmail.com
