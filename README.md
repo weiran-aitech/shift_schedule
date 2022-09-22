@@ -3,14 +3,14 @@
 #### 智能排班软件
 ## Features:
 A satisfactory shift schedule can be extremely hard to create and revise. This app is designed and developed to use AI and combinatorial optimization technologies to address such issues. It is powered by the following features:
-- A wide variety of employee shift scheduling issues are categorized and modeled by the number of shifts arranged in each day. Currently, one to eight shifts arrangement per day are supported.
-- The App is furnished with innovatively developed scheduling engines that make the task simpler for the user to create, update, and iteratively optimize employee shift schedules.
+- A wide variety of employee shift scheduling issues are categorized and modeled by the number of shifts arranged on each day. Currently, one to eight shift arrangements per day are supported.
+- The App is furnished with innovatively developed scheduling engines that make it simpler for the user to create, update, and iteratively optimize employee shift schedules.
 - The App provides a collection of fundamental shift scheduling constraints for scheduling decision-making, which are extracted and derived from common and frequently used schedule requests. To satisfy numerous requirements in the real world, those constraints might be merged to form quite complicated constraints.
-- The App uses reactive scheduling with constraint addition and removal to handle often changing requirements. To address the new request and create the least amount of perturbation, a minimal number of altered shifts are sorted in contrast to the existing schedule.
-- Another characteristic of this app is its remarkable flexibility. It can be used to fulfill simple to complex scheduling tasks. The process of creating and revising schedules can be as easy as choosing an option and pressing a button. On the other hand, sophisticated strategies and techniques are also available to deal with difficult issues (e.g., decomposition of a problem and merging multiple scheduling results to form the final results).
+- The app uses reactive scheduling with constraint addition and removal to handle often changing requirements. To address the new request and create the least amount of perturbation, a minimal number of altered shifts are sorted in contrast to the existing schedule.
+- Another characteristic of this app is its remarkable flexibility. It can be used to fulfill simple and complex scheduling tasks. The process of creating and revising schedules can be as easy as choosing an option and pressing a button. On the other hand, sophisticated strategies and techniques are also available to deal with difficult issues (e.g., decomposition of a problem and merging multiple scheduling results to form the final results).
 - Each employee's total working hours, total number of shifts, total number of days off, and total number of shift types are comprehensively considered and handled in a schedule cycle. To achieve a better balance between the needs of the employees and the companies, constraint adjustment and optimization algorithms are applied.
-- The scheduling outcomes will be shown in Gantt-Charts and tables. Integration tools are provided to communicate with external systems (e.g., import employee data into the App, output schedule results to an excel file, etc.).
-- Using this app, managers' daily workloads will be eased and employees will be greatly motivated to increase their productivity and improve their quality of work. The schedule results will also provide management practical advice to optimize employee structure and lowering administrative costs.
+- The scheduling outcomes will be shown in Gantt-charts and tables. Integration tools are provided to communicate with external systems (e.g., import employee data into the App, output schedule results to an excel file, etc.).
+- Using this app, managers' daily workloads will be eased and employees will be greatly motivated to increase their productivity and improve their quality of work. The schedule results will also provide practical advice to the manager to optimize employee structure and lower administrative costs.
 
 
 ## Examples:
@@ -25,13 +25,13 @@ A satisfactory shift schedule can be extremely hard to create and revise. This a
 
 App Result:
 ![image](https://user-images.githubusercontent.com/84350533/119012794-a5a1a800-b996-11eb-8254-cbe54cebc874.png)
-In the 7-day period，4 employees work for 48 hours and 5 employees work for 40 hours. Shifts assined to each employee are spaced by at least 16 hours.
+In this shift schedule, 4 employees work for 48 hours and 5 employees work for 40 hours a week. Shifts assined to each employee are spaced by at least 16 hours.
 
 ### 2. Creating a schedule for 10 employees over a 7-day period, subject to the constraints as listed in example 1.
 
 App Result:
 ![image](https://user-images.githubusercontent.com/84350533/183247091-44349e8b-6a47-492b-bb71-90b6bf94c437.png)
-In the 7-day period, 9 employees work for 40 hours, 1 employee works for 32 hours. Shifts assigned to each employee are spaced by at least 24 hours. For each employee, different shift types are assigned on two adjacent days.
+In this shift schedule, 9 employees work for 40 hours, 1 employee works for 32 hours a week. Shifts assigned to each employee are spaced by at least 24 hours. For each employee, different shift types are assigned on two adjacent days.
 
 ### 3. Creating a schedule for 35 employees over a 7-day period, subject to the following constraints:
    - Every day is divided into six 4-hour time slots. Each time slot requires different number of employees. 
@@ -50,7 +50,7 @@ In the 7-day period, 9 employees work for 40 hours, 1 employee works for 32 hour
 
 App Result:
 ![image](https://user-images.githubusercontent.com/84350533/181852021-45e3dec2-4bf8-42b8-ab56-0e08492d99c3.png)
-In this shift schedule，each employee works for 40 hours a week. Shifts assigned to each employee are spaced by at least 24 hours.
+In this shift schedule, each employee works for 40 hours a week. Shifts assigned to each employee are spaced by at least 24 hours.
 
 Email:weiran.aitech@gmail.com
 
