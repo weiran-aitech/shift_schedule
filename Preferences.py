@@ -119,8 +119,7 @@ class GlobalPrefs():
                 break
         window.close()
         return retDict
-
-
+	
 	def editPreferences():
 		aBanzuList = showEnSelectScheduleUnits('Pref')
 		if len(aBanzuList) == 0:
@@ -128,7 +127,7 @@ class GlobalPrefs():
 			return
 		aBanzuId = int(aBanzuList[0][0])
 
-		abzPrefIns = getBanzuPrefs(aBanzuId)
+		abzPrefIns = self.getBanzuPrefs()
 		prefs = abzPrefIns.preferenceGui(aBanzuList[0])
 
 		if prefs:
@@ -151,10 +150,9 @@ class GlobalPrefs():
 
 
 	def getPrefFileFolder(prefsId):
-		abzPrefIns = getBanzuPrefs(self.banzu_id, prefsId)
+		abzPrefIns = self.getBanzuPrefs(prefsId)
 		destFolder = createSpecifiedFilePath(abzPrefIns.DestFolder)
 		return destFolder
-
-
+	
 
 
