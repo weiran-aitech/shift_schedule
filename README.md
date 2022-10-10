@@ -31,7 +31,7 @@ In this shift schedule, 4 employees work for 48 hours and 5 employees work for 4
 ### 2. Creating a schedule for 10 employees over a 7-day period, subject to the constraints as listed in example 1.
 
 App Result:
-![image](https://user-images.githubusercontent.com/84350533/183247091-44349e8b-6a47-492b-bb71-90b6bf94c437.png)
+![image](https://user-images.githubusercontent.com/84350533/194903255-47e8b605-31fc-4276-b548-bc78046de343.png)
 In this shift schedule, 9 employees work for 40 hours, 1 employee works for 32 hours a week. Shifts assigned to each employee are spaced by at least 24 hours. For each employee, different shift types are assigned on two adjacent days.
 
 ### 3. Creating a schedule for 35 employees over a 7-day period, subject to the following constraints:
