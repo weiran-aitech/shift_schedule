@@ -12,7 +12,7 @@ A satisfactory shift schedule can be extremely hard to create. On the other hand
 - The app uses reactive scheduling with constraint addition and removal to handle often changing requirements. To address the new request and create the least amount of perturbation, a minimal number of altered shifts are sorted in contrast to the existing schedule.
 - Another characteristic of this app is its remarkable flexibility. It can be used to fulfill simple and complex scheduling tasks. The process of creating and revising schedules can be as easy as choosing an option and pressing a button. On the other hand, sophisticated strategies and techniques are also available to deal with difficult issues (e.g., decomposition of a problem and merging multiple scheduling results to form the final results).
 - Each employee's total working hours, total number of shifts, total number of days off, and total number of shift types are comprehensively considered and handled in a schedule cycle. To achieve a better balance between the needs of the employees and the companies, constraint adjustment and optimization algorithms are applied.
-- The scheduling outcomes will be shown in Gantt-charts and tables. Integration tools are provided to communicate with external systems (e.g., import employee data into the App, output schedule results to an excel file, etc.).
+- The scheduling outcomes will be shown in Gantt-charts and tables. Integration tools are provided to communicate with external systems (e.g., import employee data into the app, export results to an excel file, and send results to employees via text message or social media. etc.).
 
 ## Examples:
 ### 1. Creating a schedule for 9 employees over a 7-day period, subject to the following constraints:
