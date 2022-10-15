@@ -25,7 +25,7 @@
    - Each employee has at least one day off in the 7-day period.
 
 App Result:
-![image](https://user-images.githubusercontent.com/84350533/119012794-a5a1a800-b996-11eb-8254-cbe54cebc874.png)
+![image](https://user-images.githubusercontent.com/84350533/195989630-e41d4abd-19a0-4b4e-9808-cd04854909ce.png)
 In this shift schedule, 4 employees work for 48 hours and 5 employees work for 40 hours a week. Shifts assined to each employee are spaced by at least 16 hours.
 
 ### 2. Creating a schedule for 10 employees over a 7-day period, subject to the constraints as listed in example 1.
