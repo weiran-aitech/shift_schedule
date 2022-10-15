@@ -3,7 +3,7 @@
 #### 智能排班软件
 
 ## Motivation:
-  A satisfactory shift schedule can be extremely hard to create. On the other hand, no matter how perfect the first schedule is at the time of launch, frequent adjustments are usually inevitable due to circumstances like an employee's illness or a no-show. Therefore, a broadly applicable, intelligent shift scheduling system that can react to the events of each day is required in the modern world. This app is designed and developed using technology from artificial intelligence (AI) and combinatorial optimization to quickly and effectively address such issues. It is powered by the following features:
+  A satisfactory shift schedule can be extremely hard to create. On the other hand, no matter how perfect the first schedule is at the time of launch, frequent adjustments are usually inevitable due to circumstances like an employee's illness or a no-show. Therefore, a broadly applicable, intelligent shift scheduling system that can react to the events of each day is required in the modern world. This app is designed and developed using technology from artificial intelligence (AI) and combinatorial optimization to quickly and effectively address such issues. It is powered by the following features.
 
 ## Features:
 - A wide variety of employee shift scheduling issues are categorized and modeled by the number of shifts arranged on each day. Currently, one to eight shift arrangements per day are supported.
