@@ -8,7 +8,7 @@
 ## Features:
 - A wide variety of employee shift scheduling issues are categorized and modeled by the number of shifts arranged on each day. Currently, one to eight shift arrangements per day are supported.
 - The app is furnished with innovatively developed scheduling engines that make it simpler for the user to create, update, and iteratively optimize employee shift schedules.
-- The app provides a collection of fundamental shift scheduling constraints for scheduling decision-making, which are extracted and derived from common and frequently used schedule requests. To satisfy numerous requirements in the real world, those constraints might be merged to form quite complicated constraints.
+- The app provides a collection of fundamental shift scheduling constraints for scheduling decision-making, which are extracted and derived from common and frequently used schedule requests. Rather than presented as mathematical formulas, these constraints are expressed in simple description phrases. To cope with many requirements that arise in the real world, constraints may be combined to generate more complex constraints.
 - One of the most notable advantages this app delivers is its reactive scheduling capability, with which users can dynamically add or remove constraints to tackle the challenges of ongoing schedule adjusment. In order to create the least amount of perturbation when a new request comes in, a minimal number of altered shifts are sorted in contrast to the existing schedule.
 - Another characteristic of this app is its remarkable flexibility. It can be used to fulfill simple and complex scheduling tasks. The process of creating and revising schedules can be as easy as choosing an option and pressing a button. Moreover, sophisticated strategies and techniques are also available to deal with difficult issues (e.g., decomposition of a problem and merging multiple scheduling results to form the final results).
 - Each employee's total working hours, total number of shifts, total number of days off, total number of different shift types, and shift intervals are comprehensively considered and handled in a schedule cycle. A balance between the needs of employees and companies is achieved by applying optimization algorithms.
@@ -54,5 +54,4 @@ App Result:
 In this shift schedule, each employee works for 40 hours a week. Shifts assigned to each employee are spaced by at least 24 hours.
 
 Email:weiran.aitech@gmail.com
-
-30-07-2022, Eindhoven, The Netherlands.
+Eindhoven, The Netherlands.
