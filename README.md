@@ -55,4 +55,4 @@ In this shift schedule, each employee works for 40 hours a week. Shifts assigned
 
 Email:weiran.aitech@gmail.com
 
-Eindhoven, The Netherlands.
+Eindhoven, The Netherlands
