@@ -54,4 +54,5 @@ App Result:
 In this shift schedule, each employee works for 40 hours a week. Shifts assigned to each employee are spaced by at least 24 hours.
 
 Email:weiran.aitech@gmail.com
+
 Eindhoven, The Netherlands.
