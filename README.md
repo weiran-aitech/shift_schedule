@@ -3,7 +3,7 @@
 #### 智能排班软件
 
 ## Motivation:
-  A satisfactory shift schedule can be extremely hard to create. On the other hand, no matter how perfect the first schedule is at the time of launch, frequent adjustments are usually inevitable due to circumstances like an employee's illness or a no-show. Therefore, a broadly applicable, intelligent shift scheduling system that can react to the events of each day is required in the modern world. This app is designed and developed using technology from artificial intelligence (AI) and combinatorial optimization to quickly and effectively address such issues. It is powered by the following features.
+  A satisfactory shift schedule can be extremely hard to create. On the other hand, no matter how perfect the first schedule is at the time of launch, frequent adjustments are usually inevitable due to circumstances like an employee's illness or a no-show. Therefore, a broadly applicable, intelligent shift scheduling system that can react to the events of each day is required in the modern world. This app is designed and developed using technology from artificial intelligence (AI) and combinatorial optimization to quickly and effectively address such issues. It is powered by the following key features:
 
 ## Features:
 - A wide variety of employee shift scheduling issues are categorized and modeled by the number of shifts arranged on each day. Currently, one to eight shift arrangements per day are supported.
@@ -12,6 +12,7 @@
 - One of the most notable advantages this app delivers is its reactive scheduling capability, with which users can dynamically add or remove constraints to tackle the challenges of ongoing schedule adjusment. In order to create the least amount of perturbation when a new request comes in, a minimal number of altered shifts are sorted in contrast to the existing schedule.
 - Another characteristic of this app is its remarkable flexibility. It can be used to fulfill simple and complex scheduling tasks. The process of creating and revising schedules can be as easy as choosing an option and pressing a button. Moreover, sophisticated strategies and techniques are also available to deal with difficult issues (e.g., decomposition of a problem and merging multiple scheduling results to form the final results).
 - Each employee's total working hours, total number of shifts, total number of days off, total number of different shift types, and shift intervals are comprehensively considered and handled in a schedule cycle. A balance between the needs of employees and companies is achieved by applying optimization algorithms.
+- A cycle of a schedule may last one to seven days. The user has the choice to terminate the process after one cycle schedule is done or continue into the next cycle. In the latter case, the app will take the constraints and outcomes of the preceding cycle into account.
 - The scheduling outcomes will be shown in Gantt-charts and tables. Integration tools are provided to communicate with external systems (e.g., import employee data into the app, export results to an excel file, and send results to employees via text message or social media. etc.).
 
 ## Examples:
