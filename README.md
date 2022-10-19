@@ -4,7 +4,7 @@
 
 ## Motivation:
   A satisfactory shift schedule can be extremely hard to create. On the other hand, no matter how perfect the first schedule is at the time of launch, frequent adjustments are usually inevitable due to circumstances like an employee's illness or a no-show. Therefore, a broadly applicable, intelligent shift scheduling system that can react to the events of each day is required in the modern world. This app is designed and developed using technology from artificial intelligence (AI) and combinatorial optimization to quickly and effectively address such issues. 
-## It is powered by the following key features:
+## Key features:
 - A wide variety of employee shift scheduling issues are categorized and modeled by the number of shifts arranged on each day. Currently, one to eight shift arrangements per day are supported.
 - The app is furnished with innovatively developed scheduling engines that make it simpler for the user to create, update, and iteratively optimize employee shift schedules.
 - The app provides a collection of basic shift scheduling constraints for decision-making, which are extracted and derived from common and frequently used schedule requests. Rather than being presented as mathematical formulas, these constraints are expressed in simple, descriptive phrases. Multiple basic constraints may be combined to generate more complex constraints to cope with the various requirements that arise in the real world.
