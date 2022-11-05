@@ -17,7 +17,7 @@ A satisfactory shift schedule can be extremely hard to create. On the other hand
 
 ## Examples:
 ### 1. Creating a schedule for 9 employees over a 7-day period, subject to the following constraints:
-   - Each day is divided into three 8-hour shifts. Each shift requires different number of employees.
+   - Each day is divided into three 8-hour shifts. Each shift type requires different number of employees.
      - A-shift：00:00-08:00（1 employee required）
      - B-sfhit：08:00-16:00（3 employees required）
      - C-shift：16:00-24:00（3 employees required）
@@ -25,17 +25,33 @@ A satisfactory shift schedule can be extremely hard to create. On the other hand
    - Number of shifts are evenly assigned to employees.
    - Each employee has at least one day off in the 7-day period.
 
-App Result:
+Software solution:
 ![image](https://user-images.githubusercontent.com/84350533/195989630-e41d4abd-19a0-4b4e-9808-cd04854909ce.png)
 In this shift schedule, 4 employees work for 48 hours and 5 employees work for 40 hours a week. Shifts assined to each employee are spaced by at least 16 hours.
 
 ### 2. Creating a schedule for 10 employees over a 7-day period, subject to the constraints as listed in example 1.
 
-App Result:
+Software solution:
 ![image](https://user-images.githubusercontent.com/84350533/194903255-47e8b605-31fc-4276-b548-bc78046de343.png)
 In this shift schedule, 9 employees work for 40 hours, 1 employee works for 32 hours a week. Shifts assigned to each employee are spaced by at least 24 hours. For each employee, different shift types are assigned on two adjacent days.
 
-### 3. Creating a schedule for 35 employees over a 7-day period, subject to the following constraints:
+### 3. Creating a schedule for a hospital department over a 7-day period, subject to the following constraints:
+- Each day is divided into three 8-hour shifts. Each shift type requires different number of employees on different level.
+     - A-shift：23:30-07:30（1 Head Nurse, 1 Nurse and 1 Assistant Nurse required）
+     - B-sfhit：07:30-15:30（1 Head Nurse, 3 Nurses and 2 Assistant Nurses required）
+     - C-shift：15:30-23:30（1 Head Nurse, 2 Nurses and 1 Assistant Nurse required）
+   - Every day, no nurse works more than one shift.
+   - No nurse works more than 40 hours in 7-day period.
+   - Number of shifts are evenly assigned to nurses.
+   - Each nurse has at least one day off in the 7-day period.
+   - Nurse01 and Nurse02 do not work on the same shift.
+   - Assistant Nurse1 must work together with Head Nurse1
+
+Software solution:
+![image](https://user-images.githubusercontent.com/84350533/200126610-87dfc547-7e1a-4109-ac30-7b7996fa5f9b.png)
+In this shift schedule, shifts assigned to each employee are spaced by at least 24 hours.
+
+### 4. Creating a schedule for 35 employees over a 7-day period, subject to the following constraints:
    - Every day is divided into six 4-hour time slots. Each time slot requires different number of employees. 
      - A-slot：02:00-06:00（6 employee required）
      - B-slot：06:00-10:00（9 employees required）
@@ -50,7 +66,7 @@ In this shift schedule, 9 employees work for 40 hours, 1 employee works for 32 h
    - Each employee has two days off in the 7-day period. 
    - Number of shifts are evenly assigned to employees
 
-App Result:
+Software solution:
 ![image](https://user-images.githubusercontent.com/84350533/181852021-45e3dec2-4bf8-42b8-ab56-0e08492d99c3.png)
 In this shift schedule, each employee works for 40 hours a week. Shifts assigned to each employee are spaced by at least 24 hours.
 
