@@ -73,4 +73,4 @@ In this shift schedule, each employee works for 40 hours a week. Shifts assigned
 ## Note:
 R&D for software is still continuing. The code that's been uploaded is incomplete. 
 ## Contact:
-Email:weiran.aitech@gmail.com \n Eindhoven, The Netherlands
+Email:weiran.aitech@gmail.com<br /> Eindhoven, The Netherlands
