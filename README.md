@@ -70,7 +70,8 @@ Software solution:
 ![image](https://user-images.githubusercontent.com/84350533/181852021-45e3dec2-4bf8-42b8-ab56-0e08492d99c3.png)
 In this shift schedule, each employee works for 40 hours a week. Shifts assigned to each employee are spaced by at least 24 hours.
 
+## Note:
+The uploaded code is not complete; software research and development is underway.
 ## Contact:
 Email:weiran.aitech@gmail.com
-
 Eindhoven, The Netherlands
