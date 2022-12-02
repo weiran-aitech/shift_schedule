@@ -9,11 +9,11 @@ A satisfactory shift schedule can be extremely hard to create. On the other hand
 - A wide variety of employee shift scheduling issues are categorized and modeled by the number of shifts arranged on each day. Currently, one to eight shift arrangements per day are supported.
 - This software is furnished with innovatively developed scheduling engines that make it simpler for the user to create, update, and iteratively optimize employee shift schedules.
 - This software provides a collection of basic shift scheduling constraints for decision-making, which are extracted and derived from common and frequently used schedule requests. Rather than being presented as mathematical formulas, these constraints are expressed in simple, descriptive phrases. Multiple basic constraints may be combined to generate more complex constraints to cope with the various requirements that arise in the real world.
-- One of the most notable advantages this software delivers is its reactive scheduling capability, with which user can dynamically add or remove constraints to tackle the challenges of ongoing schedule adjusment. In order to create the least amount of perturbation when a new request comes in, a minimal number of altered shifts are sorted in contrast to the existing schedule.
+- One of the most notable advantages this software delivers is its reactive scheduling capability, with which user can dynamically add or remove constraints to tackle the challenges of ongoing schedule adjusment. In order to create the least amount of perturbation when a new request comes in, a minimal number of altered shifts are sought in contrast to the existing schedule.
 - Another characteristic of this software is its remarkable flexibility. It can be used to fulfill simple and complex scheduling tasks. The process of modeling, creating and revising schedules can be as easy as choosing an option and pressing a button. Moreover, sophisticated strategies and techniques are also available to deal with difficult issues (e.g., decomposition of a problem and merging multiple scheduling results to form the final results).
 - Each employee's total working hours, total number of shifts, total number of days off, total number of different shift types, and shift intervals are comprehensively considered and handled in a schedule cycle. A balance between the needs of employees and companies is achieved by applying optimization algorithms.
 - A cycle of a schedule may last one to seven days. The user has the choice to terminate a scheduling process after one cycle of scheduling is done or continue into the next cycle. In the latter case, the software will take the constraints and outcomes of the preceding cycle into account.
-- The scheduling outcomes will be shown in Gantt-charts and tables. Integration tools are provided to communicate with external systems (e.g., import employee data into the app, export results to an excel file, and send results to employees via text message or social media. etc.).
+- The scheduling outcomes will be shown in Gantt-charts and tables. Integration tools are provided to communicate with external systems (e.g., import employee data into the software, export results to an excel file, and send results to employees via text message or social media. etc.).
 
 ## Examples:
 ### 1. Creating a schedule for 9 employees over a 7-day period, subject to the following constraints:
@@ -71,6 +71,6 @@ Software solution:
 In this shift schedule, each employee works for 40 hours a week. Shifts assigned to each employee are spaced by at least 24 hours.
 
 ## Note:
-R&D for software is continuing. The code that's been uploaded is incomplete. 
+R&D for the software is in progress. The code that's been uploaded is incomplete. 
 ## Contact:
 Email:weiran.aitech@gmail.com; weiran.aitech@ziggo.nl
