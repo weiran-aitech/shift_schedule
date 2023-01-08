@@ -1,9 +1,11 @@
-Examples:
-1. Creating a schedule for 9 employees over a 7-day period, subject to the following constraints:
-   - Each day is divided into three 8-hour shifts. Each shift type requires different number of employees.
-     - A-shift：00:00-08:00（1 employee required）
-     - B-sfhit：08:00-16:00（3 employees required）
-     - C-shift：16:00-24:00（3 employees required）
-   - Every day, no employee works more than one shift.
-   - Number of shifts are evenly assigned to employees.
-   - Each employee has at least one day off in the 7-day period.
+1. Month Schedule 1.xlsx:(An extension of Example 2 in READ.ME)
+   Creating a schedule for 9 employees over a one month period, subject to the following constraints:
+      - Each day is divided into three 8-hour shifts. Each shift type requires different number of employees.
+        - A-shift：00:00-08:00（1 employee required）
+        - B-sfhit：08:00-16:00（3 employees required）
+        - C-shift：16:00-24:00（3 employees required）
+      - Every day, no employee works more than one shift.
+      - Number of shifts are evenly assigned to employees.
+      - Each employee has at least one day off in the 7-day period.
+    In this shift schedule, 9 employees work for 40 hours, 1 employee works for 32 hours a week. Shifts assigned 
+    to each employee are spaced by at least 24 hours. For each employee, different shift types are assigned on two adjacent days.
