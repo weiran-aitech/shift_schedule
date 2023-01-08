@@ -1,5 +1,5 @@
-## Examples:
-### 1. Creating a schedule for 9 employees over a 7-day period, subject to the following constraints:
+Examples:
+1. Creating a schedule for 9 employees over a 7-day period, subject to the following constraints:
    - Each day is divided into three 8-hour shifts. Each shift type requires different number of employees.
      - A-shift：00:00-08:00（1 employee required）
      - B-sfhit：08:00-16:00（3 employees required）
