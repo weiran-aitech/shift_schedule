@@ -33,7 +33,7 @@ In this shift schedule, 4 employees work for 48 hours and 5 employees work for 4
 
 Software solution:
 ![image](https://user-images.githubusercontent.com/84350533/194903255-47e8b605-31fc-4276-b548-bc78046de343.png)
-In this shift schedule, 9 employees work for 40 hours, 1 employee works for 32 hours a week. Shifts assigned to each employee are spaced by at least 24 hours. For each employee, different shift types are assigned on two adjacent days.
+In this shift schedule, 9 employees work for 40 hours, 1 employee works for 32 hours a week. Each employee has at least two-day off in the 7-day period and has different shift types in two adjacent days. Shifts assigned to each employee are spaced by at least 24 hours.
 
 ### 3. Creating a schedule for a hospital department over a 7-day period, subject to the following constraints:
 - Each day is divided into three 8-hour shifts. Each shift type requires different number of employees on different level.
