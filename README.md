@@ -37,15 +37,15 @@ In this shift schedule, 9 employees work for 40 hours, 1 employee works for 32 h
 
 ### 3. Creating a schedule for a hospital department over a 7-day period, subject to the following constraints:
 - Each day is divided into three 8-hour shifts. Each shift type requires different number of employees on different level.
-     - A-shift：23:30-07:30（1 Head Nurse, 1 Nurse and 1 Assistant Nurse required）
-     - B-sfhit：07:30-15:30（1 Head Nurse, 3 Nurses and 2 Assistant Nurses required）
-     - C-shift：15:30-23:30（1 Head Nurse, 2 Nurses and 1 Assistant Nurse required）
+     - A-shift：23:30-07:30（1 Senior Nurse, 1 Nurse and 1 Assistant Nurse required）
+     - B-sfhit：07:30-15:30（1 Senior Nurse, 3 Nurses and 2 Assistant Nurses required）
+     - C-shift：15:30-23:30（1 Senior Nurse, 2 Nurses and 1 Assistant Nurse required）
    - Every day, no nurse works more than one shift.
    - No nurse works more than 40 hours in 7-day period.
    - Number of shifts are evenly assigned to nurses.
    - Each nurse has at least one day off in the 7-day period.
    - Nurse01 and Nurse02 do not work on the same shift.
-   - Arrange AssistantNurse1 to work simultaneouly with SeniorNurse1 as much as possible
+   - Arrange AssistantNurse1 to work simultaneously with SeniorNurse1 as much as possible
 
 Software solution:
 ![image](https://user-images.githubusercontent.com/84350533/215545886-3eb0e683-f04e-432d-93f5-15e03530c239.png)
