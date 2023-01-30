@@ -48,6 +48,8 @@ In this shift schedule, 9 employees work for 40 hours, 1 employee works for 32 h
    - Arrange AssistantNurse1 to work simultaneouly with SeniorNurse1 as much as possible
 
 Software solution:
+![image](https://user-images.githubusercontent.com/84350533/215545886-3eb0e683-f04e-432d-93f5-15e03530c239.png)
+
 ![image](https://user-images.githubusercontent.com/84350533/200126610-87dfc547-7e1a-4109-ac30-7b7996fa5f9b.png)
 In this shift schedule, shifts assigned to each employee are spaced by at least 24 hours.
 
