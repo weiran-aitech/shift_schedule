@@ -13,7 +13,7 @@
 
 2. Month Schedule 2.xlsx:(An extension of Example 3 in README)
    Creating a schedule for a hospital department over one month period, subject to the following constraints:
-   Each day is divided into three 8-hour shifts. Each shift type requires different number of employees on different level.
+   - Each day is divided into three 8-hour shifts. Each shift type requires different number of employees on different level.
      - A-shift：23:30-07:30（1 Senior Nurse, 1 Nurse and 1 Assistant Nurse required）
      - B-sfhit：07:30-15:30（1 Senior Nurse, 3 Nurses and 2 Assistant Nurses required）
      - C-shift：15:30-23:30（1 Senior Nurse, 2 Nurses and 1 Assistant Nurse required）
