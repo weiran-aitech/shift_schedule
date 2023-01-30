@@ -45,7 +45,7 @@ In this shift schedule, 9 employees work for 40 hours, 1 employee works for 32 h
    - Number of shifts are evenly assigned to nurses.
    - Each nurse has at least one day off in the 7-day period.
    - Nurse01 and Nurse02 do not work on the same shift.
-   - Arrange Assistant Nurse1 to work simultaneouly with Head Nurse1 as much as possible
+   - Arrange AssistantNurse1 to work simultaneouly with SeniorNurse1 as much as possible
 
 Software solution:
 ![image](https://user-images.githubusercontent.com/84350533/200126610-87dfc547-7e1a-4109-ac30-7b7996fa5f9b.png)
