@@ -49,7 +49,7 @@ In this shift schedule, 9 employees work for 40 hours, 1 employee works for 32 h
 
 Software solution:
 ![image](https://user-images.githubusercontent.com/84350533/215545886-3eb0e683-f04e-432d-93f5-15e03530c239.png)
-In this shift schedule, shifts assigned to each employee are spaced by at least 24 hours.
+In this shift schedule, shifts assigned to each employee are different for two consecutive days and they are spaced by at least 24 hours and .
 
 ### 4. Creating a schedule for 35 employees over a 7-day period, subject to the following constraints:
    - Every day is divided into six 4-hour time slots. Each time slot requires different number of employees. 
@@ -68,7 +68,7 @@ In this shift schedule, shifts assigned to each employee are spaced by at least 
 
 Software solution:
 ![image](https://user-images.githubusercontent.com/84350533/219944533-d0661a77-8b62-42c3-a45a-3077948fc8e4.png)
-In this shift schedule, each employee works for 40 hours a week. Shifts assigned to each employee are spaced by at least 24 hours.
+In this shift schedule, each employee works for 40 hours a week. Shifts assigned to each employee are different for two consecutive days and they are spaced by at least 24 hours.
 
 ## Note:
 R&D for the software is in progress. The code that's been uploaded is incomplete. 
