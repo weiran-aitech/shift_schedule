@@ -67,7 +67,7 @@ In this shift schedule, shifts assigned to each employee are spaced by at least 
    - Number of shifts are evenly assigned to employees
 
 Software solution:
-![image](https://user-images.githubusercontent.com/84350533/181852021-45e3dec2-4bf8-42b8-ab56-0e08492d99c3.png)
+![image](https://user-images.githubusercontent.com/84350533/219944533-d0661a77-8b62-42c3-a45a-3077948fc8e4.png)
 In this shift schedule, each employee works for 40 hours a week. Shifts assigned to each employee are spaced by at least 24 hours.
 
 ## Note:
