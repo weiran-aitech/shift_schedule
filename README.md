@@ -27,13 +27,13 @@ A satisfactory shift schedule can be extremely hard to create. On the other hand
 
 Software solution:
 ![image](https://user-images.githubusercontent.com/84350533/195989630-e41d4abd-19a0-4b4e-9808-cd04854909ce.png)
-In this shift schedule, 4 employees work for 48 hours and 5 employees work for 40 hours a week. Shifts assined to each employee are spaced by at least 16 hours.
+In this shift schedule, 4 employees work for 48 hours and 5 employees work for 40 hours a week. The shifts assined to each employee are spaced by at least 16 hours.
 
 ### 2. Creating a schedule for 10 employees over a 7-day period, subject to the constraints as listed in example 1.
 
 Software solution:
 ![image](https://user-images.githubusercontent.com/84350533/194903255-47e8b605-31fc-4276-b548-bc78046de343.png)
-In this shift schedule, 9 employees work for 40 hours, 1 employee works for 32 hours a week. Each employee has at least two-day off in the 7-day period and has different shift types in two consecutive days. The shifts assigned to each employee are spaced by at least 24 hours.
+In this shift schedule, 9 employees work for 40 hours, 1 employee works for 32 hours a week. Each employee has at least two days off in the 7-day period and has different shift types on two consecutive days. The shifts assigned to each employee are spaced by at least 24 hours.
 
 ### 3. Creating a schedule for a hospital department over a 7-day period, subject to the following constraints:
 - Each day is divided into three 8-hour shifts. Each shift type requires different number of employees on different level.
