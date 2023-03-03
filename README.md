@@ -71,8 +71,8 @@ In this shift schedule, each employee works for 40 hours a week. The shifts assi
 
 ### 5. Creating a schedule for 13 employees over a 7-day period, subject to the following constraints:
 - Each day is divided into three 8-hour shifts. 
-The number of employees required for the same shift-type varies from day to day:
-    ![image](https://user-images.githubusercontent.com/84350533/222691880-727b49f7-50c2-48bb-b83e-8fb6c1e19dae.png)
+- The number of employees required for the same shift-type varies from day to day:
+![image](https://user-images.githubusercontent.com/84350533/222691880-727b49f7-50c2-48bb-b83e-8fb6c1e19dae.png)
 - Every day, no employee works more than one shift.
 - No employee works more than 40 hours in 7-day period.
 - Number of shifts are evenly assigned to employees.
