@@ -44,8 +44,8 @@ In this shift schedule, 9 employees work for 40 hours, 1 employee works for 32 h
    - No nurse works more than 40 hours in 7-day period.
    - Number of shifts are evenly assigned to nurses.
    - Each nurse has at least one day off in the 7-day period.
-   - Nurse01 and Nurse02 do not work on the same shift.
-   - Arrange AssistantNurse1 to work simultaneously with SeniorNurse1 as much as possible
+   - Nurse01 and Nurse02 do not work on the same shift simultaneously.
+   - Arrange AssistantNurse1 to work with SeniorNurse1 simultaneously as much as possible
 
 Software solution:
 ![image](https://user-images.githubusercontent.com/84350533/215545886-3eb0e683-f04e-432d-93f5-15e03530c239.png)
@@ -68,6 +68,19 @@ In this shift schedule, the shifts assigned to each employee are different for t
 Software solution:
 ![image](https://user-images.githubusercontent.com/84350533/219944533-d0661a77-8b62-42c3-a45a-3077948fc8e4.png)
 In this shift schedule, each employee works for 40 hours a week. The shifts assigned to each employee are different for two consecutive days, and they are spaced by at least 24 hours.
+
+### 5. Creating a schedule for 13 employees over a 7-day period, subject to the following constraints:
+- Each day is divided into three 8-hour shifts. The number of employees required for the same shift-type varies from day to day:
+    ![image](https://user-images.githubusercontent.com/84350533/222691880-727b49f7-50c2-48bb-b83e-8fb6c1e19dae.png)
+   - Every day, no employee works more than one shift.
+   - No employee works more than 40 hours in 7-day period.
+   - Number of shifts are evenly assigned to employees.
+   - Each employee has at least two days off in the 7-day period.
+   - Staff_3, Staff_4 and Staff_5 do not work on the same shift simultaneously.
+
+Software solution:
+![image](https://user-images.githubusercontent.com/84350533/222693703-fb018451-c445-4248-8870-ce92dafbb378.png)
+In this shift schedule, 3 employees work for 32 hours and 10 employees work for 40 hours a week. The shifts assined to each employee are spaced by at least 24 hours.
 
 ## Note:
 R&D for the software is in progress. The code that's been uploaded is incomplete. 
