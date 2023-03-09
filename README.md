@@ -87,7 +87,7 @@ In this shift schedule, each employee works for 40 hours a week. The shifts assi
 
 Software solution:
 ![image](https://user-images.githubusercontent.com/84350533/222693703-fb018451-c445-4248-8870-ce92dafbb378.png)
-In this shift schedule, 3 employees work for 32 hours and 10 employees work for 40 hours a week. The shifts assined to each employee are spaced by at least 24 hours.
+In this shift schedule, 3 employees work for 32 hours and 10 employees work for 40 hours a week. The shifts assined to each employee are different for two consecutive days, and they are spaced by at least 24 hours.
 
 ## Note:
 R&D for the software is in progress. The code that's been uploaded is incomplete. 
