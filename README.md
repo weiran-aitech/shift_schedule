@@ -93,4 +93,5 @@ In this shift schedule, 3 employees work for 32 hours and 10 employees work for 
 R&D for the software is in progress. The code that's been uploaded is incomplete. 
 ## Contact:
 Email:weiran.aitech@gmail.com; weiran.aitech@ziggo.nl
+
 WeChat:wraitech
