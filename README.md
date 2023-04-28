@@ -1,6 +1,6 @@
 
 # Intelligent Shift Scheduling  
-#### 智能排班软件
+#### 智能排班调度
 
 ## Motivation:
 &nbsp; &nbsp; In industries such as manufacturing, healthcare, and transportation, there is a need for continuous operation, 24 hours a day, 7 days a week. Shift schedules enable employers to ensure that there are employees available to work during all hours of the day and night.
