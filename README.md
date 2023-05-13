@@ -5,7 +5,7 @@
 ## Motivation:
 &nbsp; &nbsp; Industries including manufacturing, healthcare, and transportation require continuous operation throughout the day, every day of the week. Employers can make sure that qualified employees are available to work at all times of the day and night by applying shift scheduling.
 
-&nbsp; &nbsp; Shift schedules provide flexibility to both employers and employees. Employees may prefer certain shifts that better fit their personal or family obligations, and shift schedules can allow for that flexibility while still ensuring adequate staffing. By having employees work in shifts, organizations can make the most efficient use of their facilities and equipment. This means that production can be maximized, and the organization can generate more revenue. 	
+&nbsp; &nbsp; Shift schedules provide flexibility to both employers and employees. Employees may prefer certain shifts that better fit their personal or family obligations, and shift schedules can allow for that flexibility while still ensuring adequate staffing. By having employees work in shifts, employer can make the most efficient use of their facilities and equipment. This means that production can be maximized, and the organization can generate more revenue. 	
 
 &nbsp; &nbsp; In healthcare and emergency services, having a 24/7 operation is critical for ensuring the health and safety of the public. Shift schedules ensure that there are always staff available to provide medical care and respond to emergencies. 
 
