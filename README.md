@@ -3,7 +3,7 @@
 #### 智能排班调度
 
 ## Motivation:
-&nbsp; &nbsp; In industries such as manufacturing, healthcare, and transportation, there is a need for continuous operation, 24 hours a day, 7 days a week. Shift schedules enable employers to ensure that there are employees available to work during all hours of the day and night.
+&nbsp; &nbsp; In industries such as manufacturing, healthcare, and transportation, there is a need for continuous operation, 24 hours a day, 7 days a week. Shift schedules enable employers to ensure that there are qualified employees available to work during all hours of the day and night.
 
 &nbsp; &nbsp; Shift schedules provide flexibility to both employers and employees. Employees may prefer certain shifts that better fit their personal or family obligations, and shift schedules can allow for that flexibility while still ensuring adequate staffing. By having employees work in shifts, organizations can make the most efficient use of their facilities and equipment. This means that production can be maximized, and the organization can generate more revenue. 	
 
