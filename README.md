@@ -7,7 +7,7 @@
 
 &nbsp; &nbsp; Shift schedules provide flexibility to both employers and employees. Employees may prefer certain shifts that better fit their personal or family obligations, and shift schedules can allow for that flexibility while still ensuring adequate staffing. By having employees work in shifts, employer can make the most efficient use of their facilities and equipment. This means that production can be maximized, and the organization can generate more revenue. 	
 
-&nbsp; &nbsp; In healthcare and emergency services, having a 24/7 operation is critical for ensuring the health and safety of the public. Shift schedules ensure that there are always staff available to provide medical care and respond to emergencies. 
+&nbsp; &nbsp; Typically, in healthcare and emergency services, having a 24/7 operation is critical for ensuring the health and safety of the public. Shift schedules ensure that there are always staff available to provide medical care and respond to emergencies. 
 
 &nbsp; &nbsp; However, a satisfactory shift schedule can be extremely hard to create. On the other hand, no matter how perfect the first schedule is at the time of launch, frequent adjustments are usually inevitable due to unforeseen circumstances like an employee's illness or a no-show. In order to efficiently respond to the events of each day and ensure that qualified staffs are always available to cover all shifts, we have designed and created this intelligent software for a wide range of shift scheduling applications. The software's architecture is innovative, and it imaginatively blends artificial intelligence and combinatorial optimization techniques to deal with various shift scheduling problems.
 
