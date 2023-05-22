@@ -13,7 +13,7 @@
 - A wide variety of employee shift scheduling problems are classified by the same number of shifts set on every day in a schedule cycle. Currently, one to eight shift arrangements per day in a cycle are supported.
 - This software is furnished with innovatively developed scheduling engines and modeling tools that make it easier for users to create, update, and iteratively optimize shift schedules. It is no longer necessary to build an LP, MIP, or CSP model for a shift scheduling problem. Instead, a problem model is built in a simpler, more user-friendly way by inputting parameters and constraints into a set of dialogs.
 - It provides a collection of basic shift scheduling constraints for decision-making and model-building that are extracted and derived from common and frequently used schedule requests. Rather than being presented as mathematical formulas (e.g. a set of linear inequalities), these constraints are expressed by descriptive phrases in dialogs. Multiple basic constraints may be combined to generate more complex constraints to cope with the various requirements that arise in the real world.
-- One of the most notable advantages this software delivers is its reactive scheduling capability, with which user can dynamically add or remove constraints to tackle the challenges of ongoing schedule adjusment. In order to create the least amount of perturbation when a new request comes in, a minimal number of altered shifts are sought in contrast to the existing schedule.
+- One of the most notable advantages this software delivers is its reactive scheduling capability, with which user can dynamically add or remove constraints to tackle the challenges of ongoing schedule adjustment. In order to create the least amount of perturbation when a new request comes in, a minimal number of altered shifts are sought in contrast to the existing schedule.
 - Another characteristic of this software is its remarkable flexibility. It can be used to fulfill simple and complex scheduling tasks. The process of modeling, creating and revising schedules can be as easy as choosing an option and pressing a button. Moreover, sophisticated strategies and techniques are also available to deal with difficult issues (e.g., decomposition of a problem and merging multiple scheduling solutions to construct the final results).
 - For each employee, availability dates, total working hours, total shifts, total number of different shifts, and shift intervals are comprehensively considered and processed in a scheduling cycle. By using the estimation results and the optimization algorithm supplied in the software, it is convenient to determine the right number of employees with the necessary skills and experience and achieve a healthy balance between company and employee needs.
 - A cycle of a schedule may last one to seven days. The user can choose to terminate a scheduling process after one cycle of scheduling is complete or proceed to the next cycle. In the latter case, the software will take the outcomes of the preceding cycle into account and ensure that the shifts between cycles also satisfy the general constraints used inside a cycle.
@@ -31,7 +31,7 @@
 
 Software solution:
 ![image](https://user-images.githubusercontent.com/84350533/195989630-e41d4abd-19a0-4b4e-9808-cd04854909ce.png)
-In this shift schedule, 4 employees work for 48 hours and 5 employees work for 40 hours a week. The shifts assined to each employee are spaced by at least 16 hours.
+In this shift schedule, 4 employees work for 48 hours and 5 employees work for 40 hours a week. The shifts assigned to each employee are spaced by at least 16 hours.
 
 ### 2. Creating a schedule for 10 employees over a 7-day period, subject to the constraints as listed in example 1.
 
@@ -85,7 +85,7 @@ In this shift schedule, each employee works for 40 hours a week. The shifts assi
 
 Software solution:
 ![image](https://user-images.githubusercontent.com/84350533/222693703-fb018451-c445-4248-8870-ce92dafbb378.png)
-In this shift schedule, 3 employees work for 32 hours and 10 employees work for 40 hours a week. The shifts assined to each employee are different for two consecutive days, and they are spaced by at least 24 hours.
+In this shift schedule, 3 employees work for 32 hours and 10 employees work for 40 hours a week. The shifts assigned to each employee are different for two consecutive days, and they are spaced by at least 24 hours.
 
 ## Note:
 R&D for the software is in progress. The code that's been uploaded is incomplete. 
