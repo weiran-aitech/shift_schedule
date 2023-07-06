@@ -89,7 +89,7 @@ In this shift schedule, 3 employees work for 32 hours and 10 employees work for 
 
 ## Note:
 - R&D for the software is in progress. The code that's been uploaded is incomplete.
-- Please cite this repository in any usage of content found here by include the appropriate citation information.
+- Please cite this repository by including the appropriate citation information when using content found here.
 ## Contact:
 - Email:weiran.aitech@gmail.com
 - WeChat:wraitech
