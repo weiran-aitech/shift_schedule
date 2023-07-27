@@ -1,7 +1,7 @@
 
 # Intelligent Shift Scheduling  
 #### 智能排班调度
-[Motivation](#Motivation) [Key-Features](#Key-Features) [Examples](#Examples) [Note](#Note) [Contact](#Contact){:target="_blank"}
+[Motivation](#Motivation) [Key-Features](#Key-Features) [Examples](#Examples) [Note](#Note) [Contact](#Contact)
 
 Relative links
 
