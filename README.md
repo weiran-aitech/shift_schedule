@@ -1,7 +1,7 @@
 
 # Intelligent Shift Scheduling  
 #### 智能排班调度
-[Motivation](#Motivation a {color: green !important;}) [Key features](#Key-features) [Examples](#Examples) [Note](#Note) [Contact](#Contact)
+[Motivation](#Motivation) [Key-Features](#Key-Features) [Examples](#Examples) [Note](#Note) [Contact](#Contact)
 
 ## Motivation:
 &nbsp; &nbsp; In fast-paced industries such as manufacturing, healthcare, and transportation, where uninterrupted operations are crucial, shift schedules play a vital role. These schedules offer numerous benefits for both employers and employees. For employees, shift schedules provide the flexibility to balance personal or family obligations, improving work-life balance and overall job satisfaction. Meanwhile, employers benefit from the efficient use of facility and human resources. 
@@ -10,7 +10,7 @@
 
 &nbsp; &nbsp; However, a satisfactory shift schedule can be extremely hard to create. On the other hand, no matter how perfect the first schedule is at the time of launch, frequent adjustments are usually inevitable due to unforeseen circumstances like an employee's illness or a no-show. In order to efficiently respond to the events of each day and ensure that qualified staffs are always available to cover all shifts, we have designed and created this intelligent software for a wide range of shift scheduling applications. The software's architecture is innovative, and it imaginatively blends artificial intelligence and combinatorial optimization techniques to deal with various shift scheduling problems.
 
-## Key features:
+## Key-Features:
 - A wide variety of employee shift scheduling problems are classified by the same number of shifts set on every day in a schedule cycle. Currently, one to eight shift arrangements per day in a cycle are supported.
 - This software is furnished with innovatively developed scheduling engines and modeling tools that make it easier for users to create, update, and iteratively optimize shift schedules. It is no longer necessary to build an LP, MIP, or CSP model for a shift scheduling problem. Instead, a problem model is built in a simpler, more user-friendly way by inputting parameters and constraints into a set of dialogs.
 - It provides a collection of basic shift scheduling constraints for decision-making and model-building that are extracted and derived from common and frequently used schedule requests. Rather than being presented as mathematical formulas (e.g. a set of linear inequalities), these constraints are expressed by descriptive phrases in dialogs. Multiple basic constraints may be combined to generate more complex constraints to cope with the various requirements that arise in the real world.
