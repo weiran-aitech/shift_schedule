@@ -2,7 +2,7 @@
 # Intelligent Shift Scheduling  
 #### 智能排班调度
 
-[Motivation](#Motivation) [Key-Features](#Key-Features) [Examples](#Examples) [Note](#Note) [Contact](#Contact)
+[Motivation](#Motivation) [Key-Features](#Key-Features) [Examples](#Examples) [Notes](#Notes) [Contact](#Contact)
 
 ## Motivation:
 &nbsp; &nbsp; In fast-paced industries such as manufacturing, healthcare, and transportation, where uninterrupted operations are crucial, shift schedules play a vital role. These schedules offer numerous benefits for both employers and employees. For employees, shift schedules provide the flexibility to balance personal or family obligations, improving work-life balance and overall job satisfaction. Meanwhile, employers benefit from the efficient use of facility and human resources. 
@@ -89,7 +89,7 @@ Software solution:
 ![image](https://user-images.githubusercontent.com/84350533/222693703-fb018451-c445-4248-8870-ce92dafbb378.png)
 In this shift schedule, 3 employees work for 32 hours and 10 employees work for 40 hours a week. The shifts assigned to each employee are different for two consecutive days, and they are spaced by at least 24 hours.
 
-## Note:
+## Notes:
 - R&D for the software is in progress. The code that's been uploaded is incomplete.
 - Please cite this repository by including the appropriate citation information when using content found here.
 ## Contact:
