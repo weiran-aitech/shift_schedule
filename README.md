@@ -3,7 +3,7 @@
 #### 智能排班调度
 
 {:.no_toc}
-
+{:toc}
 ## Motivation:
 &nbsp; &nbsp; In fast-paced industries such as manufacturing, healthcare, and transportation, where uninterrupted operations are crucial, shift schedules play a vital role. These schedules offer numerous benefits for both employers and employees. For employees, shift schedules provide the flexibility to balance personal or family obligations, improving work-life balance and overall job satisfaction. Meanwhile, employers benefit from the efficient use of facility and human resources. 
 
@@ -95,4 +95,3 @@ In this shift schedule, 3 employees work for 32 hours and 10 employees work for 
 ## Contact:
 - Email:weiran.aitech@gmail.com
 - WeChat:wraitech
-{:toc}
