@@ -1,9 +1,8 @@
 
 # Intelligent Shift Scheduling  
 #### 智能排班调度
-[Motivation](#Motivation) [Key-Features](#Key-Features) [Examples](#Examples) [Note](#Note) [Contact](#Contact)
 
-Relative links
+{:.no_toc}
 
 ## Motivation:
 &nbsp; &nbsp; In fast-paced industries such as manufacturing, healthcare, and transportation, where uninterrupted operations are crucial, shift schedules play a vital role. These schedules offer numerous benefits for both employers and employees. For employees, shift schedules provide the flexibility to balance personal or family obligations, improving work-life balance and overall job satisfaction. Meanwhile, employers benefit from the efficient use of facility and human resources. 
@@ -92,6 +91,8 @@ In this shift schedule, 3 employees work for 32 hours and 10 employees work for 
 
 ## Note:
 - R&D for the software is in progress. The code that's been uploaded is incomplete.
+
+{:toc}
 - Please cite this repository by including the appropriate citation information when using content found here.
 ## Contact:
 - Email:weiran.aitech@gmail.com
