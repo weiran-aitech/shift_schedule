@@ -1,11 +1,9 @@
 
 # Intelligent Shift Scheduling  
 #### 智能排班调度
-[Motivation](#Motivation) [Key features](#Key-features) [Examples](#Examples) [Note](#Note) [Contact](#Contact)
+[Motivation](#Motivation a {color: green !important;}) [Key features](#Key-features) [Examples](#Examples) [Note](#Note) [Contact](#Contact)
 
-## Motivation a {
-    color: green !important;
-}:
+## Motivation :
 &nbsp; &nbsp; In fast-paced industries such as manufacturing, healthcare, and transportation, where uninterrupted operations are crucial, shift schedules play a vital role. These schedules offer numerous benefits for both employers and employees. For employees, shift schedules provide the flexibility to balance personal or family obligations, improving work-life balance and overall job satisfaction. Meanwhile, employers benefit from the efficient use of facility and human resources. 
 
 &nbsp; &nbsp; By implementing shift schedules, organizations can minimize downtime, maximize production capacity, generate increased revenue and provide better service. For instance, in manufacturing, with employees working in shifts, production can be optimized, leading to higher output and improved financial performance. In healthcare and emergency services, having a 24/7 operation is critical for ensuring the health and safety of the public. Shift schedules ensure that there are always qualified staff available to provide medical care and respond to emergencies. 
