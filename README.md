@@ -57,7 +57,7 @@ In this shift schedule, the shifts assigned to each employee are different for t
 
 ### 4. Creating a schedule for 35 employees over a 7-day period, subject to the following constraints:
    - Every day is divided into six 4-hour time slots. Each time slot requires different number of employees. 
-     - A-slot：02:00-06:00（6 employee required）
+     - A-slot：02:00-06:00（6 employees required）
      - B-slot：06:00-10:00（9 employees required）
      - C-slot：10:00-14:00（10 employees required）
      - D-slot：14:00-18:00（10 employees required）
