@@ -88,7 +88,7 @@ Software solution:
 In this shift schedule, 3 employees work for 32 hours and 10 employees work for 40 hours a week. The shifts assigned to each employee are different for two consecutive days, and they are spaced by at least 24 hours.
 
 ### 6. Retail store staff scheduling
-- To be added soon
+- To be added
 
 ## Notes:
 - R&D for the software is in progress. The code that's been uploaded is incomplete.
