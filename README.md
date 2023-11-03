@@ -87,7 +87,7 @@ Software solution:
 ![image](https://user-images.githubusercontent.com/84350533/222693703-fb018451-c445-4248-8870-ce92dafbb378.png)
 In this shift schedule, 3 employees work for 32 hours and 10 employees work for 40 hours a week. The shifts assigned to each employee are different for two consecutive days, and they are spaced by at least 24 hours.
 
-### 6. Retail store employee scheduling: for 7 employees in one day, subject to the following constraints:
+### 6. Creating a schedule for 7 employees in a retail store in one day, subject to the following constraints:
 - Personnel required may vary every half hour
   ![image](https://github.com/weiran-aitech/shift_schedule/assets/84350533/6f18f345-ef95-4874-a02e-a91d92744368)
 - Minimum 2 hours and maximum 4 hours per shift
