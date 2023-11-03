@@ -89,7 +89,8 @@ In this shift schedule, 3 employees work for 32 hours and 10 employees work for 
 
 ### 6. Retail store staff scheduling
 
-![image](https://github.com/weiran-aitech/shift_schedule/assets/84350533/9b346a25-829c-48b3-ad8d-68f0dcdd3a67)
+![image](https://github.com/weiran-aitech/shift_schedule/assets/84350533/7ace8100-acd0-4d7e-b0c1-9ae536de4f61)
+
 
 ## Notes:
 - R&D for the software is in progress. The code that's been uploaded is incomplete.
