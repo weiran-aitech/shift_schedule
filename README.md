@@ -93,10 +93,10 @@ In this shift schedule, 3 employees work for 32 hours and 10 employees work for 
 - Minimum 2 hours and maximum 4 hours per shift
 - Shift intervals must be at least half an hour
 - Employees can work up to 8 hours per day and 40 hours per week
-- Between 11:00 and 14:00, 17:00 and 20:00, everyone has at least a half-hour break (for lunch, dinner respectively)
+- Between 11:00 and 14:00, and between 17:00 and 20:00, everyone has at least a half-hour break (for lunch and dinner respectively)
 
 One of the Software solutions:
-![image](https://github.com/weiran-aitech/shift_schedule/assets/84350533/7ace8100-acd0-4d7e-b0c1-9ae536de4f61)
+![image](https://github.com/weiran-aitech/shift_schedule/assets/84350533/da19e8b8-b09c-4588-87c2-e9be373cc578)
 In this shift schedule, each colored batch represents a half-hour period. 4 employees work for 5.5 hours and 3 employees work for 6 hours a day.
 
 ## Notes:
