@@ -77,7 +77,7 @@ In this shift schedule, each employee works for 40 hours a week. The shifts assi
 - Each day is divided into three 8-hour shifts (Night, Day, Evening). 
 - The number of employees required for the same shift-type varies from day to day:
   
-![image](https://github.com/weiran-aitech/shift_schedule/assets/84350533/647daada-208a-49ef-b27c-78aab418eccf)
+  ![image](https://github.com/weiran-aitech/shift_schedule/assets/84350533/647daada-208a-49ef-b27c-78aab418eccf)
 - Every day, no employee works more than one shift.
 - No employee works more than 40 hours in 7-day period.
 - Number of shifts are evenly assigned to employees.
