@@ -103,5 +103,5 @@ In this shift schedule, 4 employees work for 5.5 hours and 3 employees work for 
 - R&D for the software is in progress. The code that's been uploaded is incomplete.
 - Please cite this repository by including the appropriate citation information when using content found here.
 ## Contact:
-- Email:weiran.aitech@gmail.com
+- Email:weiran@kpnmail.nl; weiran.aitech@gmail.com
 - WeChat:wraitech
