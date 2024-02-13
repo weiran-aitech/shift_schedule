@@ -53,7 +53,7 @@ In this shift schedule, 9 employees work for 40 hours, 1 employee works for 32 h
 
 Software solution:
 ![image](https://user-images.githubusercontent.com/84350533/215545886-3eb0e683-f04e-432d-93f5-15e03530c239.png)
-In this shift schedule, the shifts assigned to each employee are different for two consecutive days, and they are spaced by at least 24 hours.
+In this shift schedule, the shifts assigned to each employee are different on two consecutive days, and they are spaced by at least 24 hours.
 
 ### 4. Creating a schedule for 35 employees over a 7-day period, subject to the following constraints:
    - Every day is divided into six 4-hour time slots. Each time slot requires different number of employees. 
@@ -71,7 +71,7 @@ In this shift schedule, the shifts assigned to each employee are different for t
 
 Software solution:
 ![image](https://user-images.githubusercontent.com/84350533/219944533-d0661a77-8b62-42c3-a45a-3077948fc8e4.png)
-In this shift schedule, each employee works for 40 hours a week. The shifts assigned to each employee are different for two consecutive days, and they are spaced by at least 24 hours.
+In this shift schedule, each employee works for 40 hours a week. The shifts assigned to each employee are different on two consecutive days, and they are spaced by at least 24 hours.
 
 ### 5. Creating a schedule for 13 employees over a 7-day period, subject to the following constraints:
 - Each day is divided into three 8-hour shifts (Night, Day, Evening). 
@@ -85,7 +85,7 @@ In this shift schedule, each employee works for 40 hours a week. The shifts assi
 
 Software solution:
 ![image](https://user-images.githubusercontent.com/84350533/222693703-fb018451-c445-4248-8870-ce92dafbb378.png)
-In this shift schedule, 3 employees work for 32 hours and 10 employees work for 40 hours a week. The shifts assigned to each employee are different for two consecutive days, and they are spaced by at least 24 hours.
+In this shift schedule, 3 employees work for 32 hours and 10 employees work for 40 hours a week. The shifts assigned to each employee are different on two consecutive days, and they are spaced by at least 24 hours.
 
 ### 6. Creating one day's schedule for 7 employees in a retail store, subject to the following constraints:
 - Personnel required may vary every half hour
