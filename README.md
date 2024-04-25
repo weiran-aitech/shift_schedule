@@ -89,7 +89,7 @@ In this shift schedule, 3 employees work for 32 hours and 10 employees work for 
 
 ### 6. Creating one day's schedule for 7 employees in a retail store, subject to the following constraints:
 - Personnel required may vary every half hour
-  ![image](https://github.com/weiran-aitech/shift_schedule/assets/84350533/14ef94e2-8793-4fc1-92c9-55dd265a0b25)
+ ![image](https://github.com/weiran-aitech/shift_schedule/assets/84350533/946e5187-a58c-4389-a401-7c5a16490dce)
 - A minimum of 2 hours and a maximum of 4 hours constitute a shift
 - Shift intervals must be at least half an hour
 - Employees can work up to 8 hours per day and 40 hours per week
