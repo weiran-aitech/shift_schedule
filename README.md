@@ -99,8 +99,6 @@ One of the Software solutions:
 ![image](https://github.com/weiran-aitech/shift_schedule/assets/84350533/da19e8b8-b09c-4588-87c2-e9be373cc578)
 In this shift schedule, 4 employees work for 5.5 hours and 3 employees work for 6 hours a day (each colored batch represents a half-hour period).
 
-![image](https://github.com/weiran-aitech/shift_schedule/assets/84350533/321e180d-8b71-4cc2-8e21-5739e735f683)
-
 
 ## Notes:
 - R&D for the software is in progress. The code that's been uploaded is incomplete.
