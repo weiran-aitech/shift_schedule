@@ -38,7 +38,7 @@ def findMinCostShiftReqStaffs():
         print(f"Minimum of objective function: {solver.objective_value}\n")
         for j in range(num_shifts):
             s[j] = solver.value(s[j])
-            print(f"x[{j}] = {solver.value(s[j])}")
+            print(f"s[{j}] = {solver.value(s[j])}")
     else:
         print("No solution found.")
   
