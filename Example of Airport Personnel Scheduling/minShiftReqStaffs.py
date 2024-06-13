@@ -41,6 +41,5 @@ def findMinCostShiftReqStaffs():
             print(f"x[{j}] = {solver.value(s[j])}")
     else:
         print("No solution found.")
-    # Statistics.
-    print("\nStatistics")
+  
     print(f"  status   : {solver.status_name(status)}")
