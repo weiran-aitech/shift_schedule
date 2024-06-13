@@ -1,6 +1,6 @@
 # Copyright (C)  2022-08-08 WeiRan Hi-Tech
 
-import PySimpleGUI as sg
+import FreeSimpleGUI as sg
 
 sg.Window._move_all_windows = True
 
