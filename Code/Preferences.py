@@ -1,6 +1,6 @@
 # Copyright (C)  2022-01-08 WeiRan Hi-Tech
 
-import PySimpleGUI as sg
+import FreeSimpleGUI as sg
 from datetime import *
 
 from dbManager import *
