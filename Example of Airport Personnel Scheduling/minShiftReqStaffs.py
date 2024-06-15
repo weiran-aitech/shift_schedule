@@ -43,3 +43,10 @@ def findMinCostShiftReqStaffs():
         print("No solution found.")
   
     print(f"  status   : {solver.status_name(status)}")
+
+
+def main() -> None:
+    findMinCostShiftReqStaffs()
+
+if __name__ == "__main__":
+    main()
