@@ -100,7 +100,7 @@ One of the Software solutions:
 In this shift schedule, 4 employees work for 5.5 hours and 3 employees work for 6 hours a day (each colored batch represents a half-hour period).
 
 ### 7. Airport Personnel Scheduling
-![image](https://github.com/weiran-aitech/shift_schedule/assets/84350533/a26107b9-5a33-491c-a94b-b49c31df092a)
+![image](https://github.com/weiran-aitech/shift_schedule/assets/84350533/6fe06c38-b4f4-4871-8dcd-848d0696ffca)
 
 ## Notes:
 - R&D for the software is in progress. The code that's been uploaded is incomplete.
