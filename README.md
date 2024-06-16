@@ -101,6 +101,7 @@ In this shift schedule, 4 employees work for 5.5 hours and 3 employees work for 
 
 ### 7. Airport Personnel Scheduling
 ![image](https://github.com/weiran-aitech/shift_schedule/assets/84350533/6fe06c38-b4f4-4871-8dcd-848d0696ffca)
+![image](https://github.com/weiran-aitech/shift_schedule/assets/84350533/e8770c93-e44a-4141-9ef7-44c0c4c5c87e)
 
 ## Notes:
 - R&D for the software is in progress. The code that's been uploaded is incomplete.
