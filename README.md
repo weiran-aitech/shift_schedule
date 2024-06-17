@@ -103,9 +103,11 @@ In this shift schedule, 4 employees work for 5.5 hours and 3 employees work for 
 #### This example addresses a problem from the book 'Introduction to Operations Research', 7th edition, by Hillier/Lieberman.
 - Cost control is key to successful competition in the airline industry. This problem aims to schedule United Airlines staff at an airport to minimize the cost of providing necessary services to customers. The following table lists the cost per shift and the minimum number of staff required to be on duty for each two-hour interval.
   ![image](https://github.com/weiran-aitech/shift_schedule/assets/84350533/4c3d61c7-e7a4-4b30-af35-46bffc89d9f2)
-Section 3.4 of the book describes a method for minimizing total staffing costs and determining the number of employees required per shift (which can be implemented using the Python code included in the 'Example of Airport Staff Scheduling' folder).
-Based on the results of the method, the minimum total staffing cost is $30,610 and the number of employees required per shift is: 48 for Shift 1, 31 for Shift 2, 39 for Shift 3, 43 for Shift 4, 15 for Shift 5. The number of employees required for each two-hour interval can be calculated to obtain the results shown in the following table (e.g. from Noon to 2:00 P.M: 48+31+39=118)
+Section 3.4 of the book describes a method for minimizing total staffing costs and determining the number of staffs required per shift (which can be implemented using the Python code included in the 'Example of Airport Staff Scheduling' folder).
+Based on the results of the method, the minimum total staffing cost is $30,610 and the number of staffs required per shift is: 48 for Shift 1, 31 for Shift 2, 39 for Shift 3, 43 for Shift 4, 15 for Shift 5. The number of staffs required for each two-hour interval can be calculated to obtain the results shown in the following table (e.g. from Noon to 2:00 P.M: 48+31+39=118)
 ![image](https://github.com/weiran-aitech/shift_schedule/assets/84350533/6fe06c38-b4f4-4871-8dcd-848d0696ffca)
+- However, details such as how to obtain the minimum number of staffs required for a day and how to handle weekly rest days are not explained (or published) in the book. Using the algorithm provided by our engine, we can conclude that the minimum number of staffs required per day is 176. The optimal number of staffs with one day off per week is 206. The optimal number of staffs with two days off per week is 247.
+  
 ![image](https://github.com/weiran-aitech/shift_schedule/assets/84350533/e8770c93-e44a-4141-9ef7-44c0c4c5c87e)
 
 ## Notes:
