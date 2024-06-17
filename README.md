@@ -100,10 +100,11 @@ One of the Software solutions:
 In this shift schedule, 4 employees work for 5.5 hours and 3 employees work for 6 hours a day (each colored batch represents a half-hour period).
 
 ### 7. Airport Personnel Scheduling
-#### This example addresses a problem from the book Introduction to Operations Research, 7th edition, by Hillier/Lieberman.
+#### This example addresses a problem from the book 'Introduction to Operations Research', 7th edition, by Hillier/Lieberman.
 - Cost control is key to successful competition in the airline industry. This problem aims to schedule United Airlines staff at an airport to minimize the cost of providing necessary services to customers. The following table lists the cost per shift and the minimum number of staff required to be on duty for each two-hour interval.
   ![image](https://github.com/weiran-aitech/shift_schedule/assets/84350533/4c3d61c7-e7a4-4b30-af35-46bffc89d9f2)
 Section 3.4 of the book describes a method for minimizing total staffing costs and determining the number of employees required per shift (which can be implemented using the Python code included in the Airport Staff Scheduling Example folder).
+Based on the results of the method, the minimum total staffing cost is $30,610 and the number of employees required per shift is: 48 for Shift 1:(6:00 A.M. to 2:00 P.M.), 31 for Shift 2:(8:00 A.M. to 4:00 P.M.), 39 for Shift 3:(Noon to 8:00 P.M.), 43 for Shift 4:(4:00 P.M. to midnight), 15 for Shift 5: (10:00 P.M. to 6:00 A.M.). The number of employees required for each two-hour interval can be calculated to obtain the results shown in the following table (e.g. from Noon to 2:00 P.M: 48+31+39=118)
 ![image](https://github.com/weiran-aitech/shift_schedule/assets/84350533/6fe06c38-b4f4-4871-8dcd-848d0696ffca)
 ![image](https://github.com/weiran-aitech/shift_schedule/assets/84350533/e8770c93-e44a-4141-9ef7-44c0c4c5c87e)
 
