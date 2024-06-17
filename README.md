@@ -106,8 +106,7 @@ In this shift schedule, 4 employees work for 5.5 hours and 3 employees work for 
 Section 3.4 of the book describes a method for minimizing total staffing costs and determining the number of staffs required per shift (which can be implemented using the Python code included in the 'Example of Airport Staff Scheduling' folder).
 Based on the results of the method, the minimum total staffing cost is $30,610 and the number of staffs required per shift is: 48 for Shift 1, 31 for Shift 2, 39 for Shift 3, 43 for Shift 4, 15 for Shift 5. The number of staffs required for each two-hour interval can be calculated to obtain the results shown in the following table (e.g. from Noon to 2:00 P.M: 48+31+39=118)
 ![image](https://github.com/weiran-aitech/shift_schedule/assets/84350533/6fe06c38-b4f4-4871-8dcd-848d0696ffca)
-- The details such as how to obtain the minimum number of staffs required for a day and how to handle weekly rest days are not explained (or published) in the book. Using the algorithm provided by our engine, we can conclude that the minimum number of staffs required per day is 176. The optimal number of people required to meet the constraint that each employee has one day off per week is 206, each employee has two days off per week is 247.
-  
+- The details such as how to obtain the minimum number of staffs required for a day and how to handle weekly rest days are not explained (or published) in the book. Using the algorithm provided by our engine, we can conclude that the minimum number of staffs required per day is 176. The optimal number of people required to meet the constraints of each staff having one day off per week and each staff having two days off per week is 206 and 247 respectively.
 ![image](https://github.com/weiran-aitech/shift_schedule/assets/84350533/e8770c93-e44a-4141-9ef7-44c0c4c5c87e)
 
 ## Notes:
