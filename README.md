@@ -108,7 +108,7 @@ Based on the results of the method, the minimum total staffing cost is $30,610 a
 ![image](https://github.com/weiran-aitech/shift_schedule/assets/84350533/6fe06c38-b4f4-4871-8dcd-848d0696ffca)
 - The details such as how to obtain the minimum number of staffs required for a day and how to handle weekly rest days are not explained (or published) in the book. Using the algorithms provided by our engine, we can conclude that the minimum number of staffs required per day is 176. The optimal number of people required to meet the constraints of each staff having one day off per week and each staff having two days off per week is 206 and 247 respectively.
    - Here is a Gantt-Chart of 176 staffs’ shifts for a day:
-![image](https://github.com/weiran-aitech/shift_schedule/assets/84350533/e8770c93-e44a-4141-9ef7-44c0c4c5c87e)
+![image](https://github.com/weiran-aitech/shift_schedule/assets/84350533/4f7466b7-334d-4a42-b866-0d6e5824d139)
 
 ## Notes:
 - R&D for the software is in progress. The code that's been uploaded is incomplete.
