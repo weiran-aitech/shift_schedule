@@ -1,3 +1,3 @@
-- [首页](README.md)
 - [快速开始](guide.md)
+- [首页](README.md)
 - [API参考](api.md)
