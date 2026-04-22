@@ -116,7 +116,7 @@ In this schedule, 244 employees have two day-off a week and 3 employees have thr
 
 ## Notes:
 - R&D for the software is in progress. The code that's been uploaded is incomplete.
-- Please cite this repository by including the appropriate citation information when using content found here.
+- When using content from this repository, please cite the source and include the appropriate citation information.
 ## Contact:
 - Email:weiran@kpnmail.nl; weiran.aitech@gmail.com
 - WeChat:wraitech
